@@ -14,3 +14,9 @@ with a fresh dive into data structures, starting with arrays!
 - Learned Big O notation time complexity
 #### Arrays:
 - Solved Find Peak Element medium level problem on leetcode in tc of O(n) linear and sc of O(1) constant
+- 
+### Day 3 of #100DaysOfCode
+- Learned Object Big O time complexity and Array Big O time complexity
+- Optimized portfolio backend 
+#### Arrays and Math:
+- Solved fibGenerator problem on leetcode in tc of O(n) linear
