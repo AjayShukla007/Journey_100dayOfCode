@@ -17,6 +17,6 @@ with a fresh dive into data structures, starting with arrays!
 - 
 ### Day 3 of #100DaysOfCode
 - Learned Object Big O time complexity and Array Big O time complexity
-- Optimized portfolio backend 
+- Optimized portfolio backend reduced response time by 1.2s
 #### Arrays and Math:
 - Solved fibGenerator problem on leetcode in tc of O(n) linear
