@@ -20,3 +20,11 @@ with a fresh dive into data structures, starting with arrays!
 - Optimized portfolio backend reduced response time by 1.2s
 #### Arrays and Math:
 - Solved fibGenerator problem on leetcode in tc of O(n) linear
+
+### Day 4 of #100DaysOfCode
+- Learned Big O  Math algorithms
+
+- Structured Case studies page for my portfolio website
+- Started #Codemonk on @HackerEarth 
+#### Math:
+- GCD, Factorial Of Number, Prime Number, pow of 2
