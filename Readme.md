@@ -33,6 +33,15 @@ with a fresh dive into data structures, starting with arrays!
 - learned about brute approach and optimal solution 
 - learned about two pointer approach
 - added loading skeleton to blogs page of my portfolio website
-
-Arrays:
+#### Arrays:
 - Solved Rotate Array to k step medium level problem on leetcode
+
+### day 6 of #100DaysOfCode
+- learned about Matrics Arrays
+- learned about Inversions in Arrays
+- learned rational expression(regExp)
+- learned and used string-searching algorithms
+
+#### Arrays:
+- Solved Matrics Inversions problem on HackerEarth in brute and optimal with O(n^2)
+- Solved Rotate String problem on leetcode in brute and optimal approach with O(1)
