@@ -45,3 +45,15 @@ with a fresh dive into data structures, starting with arrays!
 #### Arrays:
 - Solved Matrics Inversions problem on HackerEarth in brute and optimal with O(n^2)
 - Solved Rotate String problem on leetcode in brute and optimal approach with O(1)
+
+### day 7 of #100DaysOfCode
+- learned more about Matrics Arrays
+- learned about Math object and how it affects the time and space complexity
+
+#### Arrays:
+- Solved Find All Peaks on leetcode in tc of O(n) and sc of O(1)
+- Solved Diagonal Difference with tc of linear O(n) on HackerRank
+- Solved Diagonal Difference with tc of linear O(n) and sc of O(n+2) on HackerRank
+- Solved Plus Minus with tc of linear O(n) on HackerRank
+- Solved Left Rotation with tc of linear O(n) on HackerRank
+- Solved Staircase with tc of linear O(n) on HackerRank
