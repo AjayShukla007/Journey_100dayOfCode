@@ -57,3 +57,12 @@ with a fresh dive into data structures, starting with arrays!
 - Solved Plus Minus with tc of linear O(n) on HackerRank
 - Solved Left Rotation with tc of linear O(n) on HackerRank
 - Solved Staircase with tc of linear O(n) on HackerRank
+
+### day 8 of #100DaysOfCode
+- Initialized Case studies page Nav Container
+- Getting closer to finish of My portfolio ebsite
+
+#### Arrays:
+- Solved Container With Most Water medium level problem on leetcode in tc of O(n) and sc of O(1)
+- Solved mini-max sum  in tc of O(n) and sc of O(1) on HackerRank
+- Solved Birthday Cake Candles with tc of linear O(n) on HackerRank
