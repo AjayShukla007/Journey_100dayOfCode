@@ -60,9 +60,18 @@ with a fresh dive into data structures, starting with arrays!
 
 ### day 8 of #100DaysOfCode
 - Initialized Case studies page Nav Container
-- Getting closer to finish of My portfolio ebsite
+- Getting closer to finish of My portfolio website
 
 #### Arrays:
 - Solved Container With Most Water medium level problem on leetcode in tc of O(n) and sc of O(1)
 - Solved mini-max sum  in tc of O(n) and sc of O(1) on HackerRank
 - Solved Birthday Cake Candles with tc of linear O(n) on HackerRank
+
+### day 9 of #100DaysOfCode
+- Improved two pointer approach
+- Solved first Hard level problem on leetcode
+- Improved Case studies page of my portfolio website
+
+#### Arrays and Binary Search:
+- Solved hard level Median of Two Sorted Arrays problem on leetcode in tc of O(n+n) and sc of O(n+m)
+- Solved Time Conversion  in tc of O(1) constant and sc of O(1) constant on HackerRank
