@@ -75,3 +75,11 @@ with a fresh dive into data structures, starting with arrays!
 #### Arrays and Binary Search:
 - Solved hard level Median of Two Sorted Arrays problem on leetcode in tc of O(n+n) and sc of O(n+m)
 - Solved Time Conversion  in tc of O(1) constant and sc of O(1) constant on HackerRank
+
+### day 10 of #100DaysOfCode
+- Improved Arrays methods
+- Optimized Blogs page for faster reloads and managed to reduce loading time by ~1s
+
+#### Arrays and dp:
+- Solved Remove Duplicates from Sorted Array on leetcode in tc of O(n) and sc of O(1) constant
+- Solved candles Counting  in Dynamic Programming on HackerRank
