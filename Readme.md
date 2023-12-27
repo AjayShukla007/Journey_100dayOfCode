@@ -83,3 +83,11 @@ with a fresh dive into data structures, starting with arrays!
 #### Arrays and dp:
 - Solved Remove Duplicates from Sorted Array on leetcode in tc of O(n) and sc of O(1) constant
 - Solved candles Counting  in Dynamic Programming on HackerRank
+
+### day 11 of #100DaysOfCode
+- Improved Two pointer methods
+- Removed a bug that causing multiple click on search button on Blogs page
+
+#### Arrays dp:
+- Solved Remove Element on leetcode in tc of O(n) and sc of O(1) constant
+- Solved Hyper Strings advance level quetion and scored 86.79/90 in Dynamic Programming on HackerRank
