@@ -91,3 +91,11 @@ with a fresh dive into data structures, starting with arrays!
 #### Arrays dp:
 - Solved Remove Element on leetcode in tc of O(n) and sc of O(1) constant
 - Solved Hyper Strings advance level quetion and scored 86.79/90 in Dynamic Programming on HackerRank
+
+### day 12 of #100DaysOfCode
+- Improved Two pointer methods
+- Initialized Case studies NavBar component
+- Fixed bug of Search input not being focused on first click
+
+#### Arrays:
+- Solved 3Sum medium level on leetcode in tc of O(n^2) and Beats 98.59% in space complexity
