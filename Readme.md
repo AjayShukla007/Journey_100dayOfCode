@@ -105,5 +105,5 @@ with a fresh dive into data structures, starting with arrays!
 - Completed Nav Section of Case Studies Page
 
 #### Arrays:
-- Solved 3Sum Closest medium level on leetcode in tc of O(n^2)
+- Solved 3 Sum Closest medium level on leetcode in tc of O(n^2)
 - Solved grading studants on HackerRank in tc of O(n)
