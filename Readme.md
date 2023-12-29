@@ -99,3 +99,11 @@ with a fresh dive into data structures, starting with arrays!
 
 #### Arrays:
 - Solved 3Sum medium level on leetcode in tc of O(n^2) and Beats 98.59% in space complexity
+
+### day 13 of #100DaysOfCode
+- Fixed error of not loading content on Case studies page
+- Completed Nav Section of Case Studies Page
+
+#### Arrays:
+- Solved 3Sum Closest medium level on leetcode in tc of O(n^2)
+- Solved grading studants on HackerRank in tc of O(n)
