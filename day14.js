@@ -7,7 +7,6 @@ function fourSum(nums, target) {
     }
     let left1 = i + 1;
 
-    // while(left1<nums.length-1){
     for (var j = left1; j < nums.length; j++) {
       if (j > left1 && nums[j] == nums[j - 1]) {
         continue;
