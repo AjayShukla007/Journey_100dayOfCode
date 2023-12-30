@@ -114,4 +114,4 @@ with a fresh dive into data structures, starting with arrays!
 
 #### Arrays:
 - Solved 4Sum medium level on leetcode Beats 98.04% of space complexity
-- Solved Picking Numbers on HackerRank in tc of O(n+2)
+- Solved Picking Numbers on HackerRank in tc of O(n+2) and sc of O(1) constant
