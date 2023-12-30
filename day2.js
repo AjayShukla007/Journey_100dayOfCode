@@ -5,7 +5,7 @@ const add = nums => {
     sum += nums[i];
   }
   return sum;
-};
+}; 
 // this will the time complexity of O(n) because the for loop is running n number of times and it will be linear because thr time complexity increases as size of thr input imcrease
 
 function summation(n) {
