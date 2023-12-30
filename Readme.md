@@ -107,3 +107,8 @@ with a fresh dive into data structures, starting with arrays!
 #### Arrays:
 - Solved 3 Sum Closest medium level on leetcode in tc of O(n^2)
 - Solved grading studants on HackerRank in tc of O(n)
+
+### day 13 of #100DaysOfCode
+
+#### Arrays:
+- Solved 4Sum medium level on leetcode Beats 98.04% of space complexity
