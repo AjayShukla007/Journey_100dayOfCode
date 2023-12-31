@@ -1,3 +1,4 @@
+// With binary search Algoridhm
 function searchinRotatedSortedArray(nums, target) {
   let left = 0,
     right = nums.length - 1;
@@ -22,6 +23,7 @@ function searchinRotatedSortedArray(nums, target) {
 }
 console.log(searchinRotatedSortedArray([4, 5, 6, 7, 0, 1, 2], 0)); // 4
 
+// simple approach
 function searchinRotatedSortedArray2(nums, target) {
   for (let i = 0; i < nums.length; i++) {
     if (nums[i]===target) {
