@@ -120,5 +120,5 @@ with a fresh dive into data structures, starting with arrays!
 - Implemented Get and Post Endpoints for Case Studies Page
 - Implemented Show and Add Components In CMS to handle create and read operation for Case Studies
 
-#### Arrays:
+#### BinarySearch:
 - Solved Search in Rotated Sorted Array medium level on leetcode Beats 94.63% of space complexity
