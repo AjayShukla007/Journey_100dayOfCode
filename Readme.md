@@ -124,7 +124,7 @@ with a fresh dive into data structures, starting with arrays!
 - Solved Search in Rotated Sorted Array medium level on leetcode Beats 94.63% of space complexity
 
 ### day 16 of #100DaysOfCode
-- Implemented Get and Post Endpoints for Case Studies Page
+- Implemented Patch and delete Endpoints for Case Studies Page
 - Implemented Update Components and Remove button In CMS to handle patch and delete operation for Case Studies
 
 #### BinarySearch:
