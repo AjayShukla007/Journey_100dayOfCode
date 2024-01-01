@@ -9,7 +9,7 @@
 //   }
 //   return tempNum.length>0?tempNum:[-1,-1];
 // }
-
+// this will also works but when we ask to make it frim scratch like i need to implement the second following method
 /*// lowerbound or search to first
 function lowerbound(arr, n, x) {
   let low = 0, high = n-1;
