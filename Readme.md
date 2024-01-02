@@ -131,7 +131,7 @@ with a fresh dive into data structures, starting with arrays!
 - Solved Find First and Last Position of Element in Sorted Array medium level on leetcode with tc of O(log n) and sc of O(1)
 
 ### day 17 of #100DaysOfCode
-- Updated backend to send nessasory data only
+- Updated backend to send necessary data only
 - ReBuild Show Component and added .title to req data from backend In CMS for Case Studies
 
 #### Array:
