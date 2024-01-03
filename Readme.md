@@ -142,3 +142,5 @@ with a fresh dive into data structures, starting with arrays!
 
 #### Array:
 - Solved Jump Game I and Jump Game II medium level on leetcode with tc of O(n) and sc of O(1)
+- Solved Absolute Permutation
+Problem medium level on HackerRank with tc of O(n) and sc of O(1)

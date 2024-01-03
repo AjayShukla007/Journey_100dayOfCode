@@ -42,3 +42,43 @@ var jump_ll = (nums)=>{
     return jumps;
 };
 console.log(jump_ll([2, 3, 1, 1, 4]));
+
+
+function absolutePermutation(n, k) {
+    const result = [];
+
+    // If k is 0, return the original sequence
+    if (k === 0) {
+        for (let i = 1; i <= n; i++) {
+            result.push(i);
+        }
+        return result;
+    }
+
+    // If n is not divisible by 2 * k, return -1
+    if (n % (2 * k) !== 0) {
+        return [-1];
+    }
+
+    // Create the absolute permutation
+    let toggle = true;
+    for (let i = 1; i <= n; i++) {
+        if (toggle) {
+            result.push(i + k);
+        } else {
+            result.push(i - k);
+        }
+
+        if (i % k === 0) {
+            toggle = !toggle;
+        }
+    }
+
+    return result;
+}
+
+// Example usage:
+const n = 10;
+const k = 5;
+const result = absolutePermutation(n, k);
+console.log(result.join(' '));
