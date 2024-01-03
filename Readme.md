@@ -136,3 +136,10 @@ with a fresh dive into data structures, starting with arrays!
 
 #### Array:
 - Solved next permutation medium level on leetcode with tc of O(n log n) and sc of O(1)
+
+### day 17 of #100DaysOfCode
+- Updated backend to send necessary data only
+- ReBuild Show Component and added .title to req data from backend In CMS for Case Studies
+
+#### Array:
+- Solved Jump Game I and Jump Game II medium level on leetcode with tc of O(n) and sc of O(1)
