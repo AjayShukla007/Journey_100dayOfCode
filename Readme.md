@@ -147,7 +147,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 19 of #100DaysOfCode
 - Improved portfolio case study page to handle different types of data
-- Added private Endpoints to req and get data from databasw
+- Added private Endpoints to req and get data from database
 
 #### Array:
 - Solved Remove Duplicates from Sorted Array II medium level on leetcode with tc of O(n) and sc of O(1)
