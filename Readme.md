@@ -146,6 +146,9 @@ with a fresh dive into data structures, starting with arrays!
 Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 19 of #100DaysOfCode
+- Improved portfolio case study page to handle different types of data
+- Added private Endpoints to req and get data from databasw
 
 #### Array:
 - Solved Remove Duplicates from Sorted Array II medium level on leetcode with tc of O(n) and sc of O(1)
+- Solved multiple of 3 and 5 medium level on HackerRank with tc of O(n) and sc of O(1)
