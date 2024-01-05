@@ -154,7 +154,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved multiple of 3 and 5 medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 20 of #100DaysOfCode
-- Improved portfolio case study page to handle different types of data
+- Structured portfolio case study page
 - Added Featurs and conclusion Components in case study page
 
 #### Recursion:
