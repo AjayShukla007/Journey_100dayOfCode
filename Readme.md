@@ -159,3 +159,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Recursion:
 - Solved Reverse Nodes in k-Group hard level on leetcode with tc of O(n) and sc of O(1) that Beats 93.66% in runtime and 88.11% in Memory in JavaScript
+
+### day 21 of #100DaysOfCode
+- caching the case study data
+- added middleware to handle re-fetching and caching in case study page
+
+#### Recursion:
+- Solved Permutation I medium level on leetcode with tc of O(n log n) and sc of O(1) that Beats 98.57% in runtime and Beats 82.33% in Memory in JavaScript
