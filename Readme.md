@@ -166,3 +166,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Recursion:
 - Solved Permutation I medium level on leetcode with tc of O(n log n) and sc of O(1) that Beats 98.57% in runtime and Beats 82.33% in Memory in JavaScript
+
+### day 22 of #100DaysOfCode
+- Initialized Flow Component to show the software architacture
+- Updated case Studies items Component to handle json data of flow chart
+
+#### Recursion:
+- Solved Min Time medium level on geeksforgeeks with tc of O(n^2) and sc of O(1) in JavaScript
