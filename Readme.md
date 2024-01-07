@@ -169,7 +169,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 22 of #100DaysOfCode
 - Initialized Flow Component to show the software architacture
-- Updated case Studies items Component to handle json data of flow chart
+- Updated case Studies items Component to handle JSON data of flow chart
 
 #### Recursion:
 - Solved Min Time medium level on geeksforgeeks with tc of O(n^2) and sc of O(1) in JavaScript
+- Solved Search Insert on leetcode with tc of O(log n) and sc of O(1) Beats 96.96% in JavaScript runtime
