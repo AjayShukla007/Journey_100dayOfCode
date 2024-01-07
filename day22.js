@@ -80,8 +80,7 @@ function main() {
   }
 }
 
-// leetcode
-
+// leetcode easy level problem of binery search
 function searchInsert(nums, target) {
   let low = 0;
   let high = nums.length - 1;
