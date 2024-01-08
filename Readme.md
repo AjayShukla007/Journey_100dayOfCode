@@ -174,3 +174,11 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 #### Recursion:
 - Solved Min Time medium level on geeksforgeeks with tc of O(n^2) and sc of O(1) in JavaScript
 - Solved Search Insert on leetcode with tc of O(log n) and sc of O(1) Beats 96.96% in JavaScript runtime
+
+
+### day 23 of #100DaysOfCode
+- caching the case study data
+- added middleware to handle re-fetching and caching in case study page
+
+#### Recursion:
+- Solved Permutation I medium level on leetcode with tc of O(n * n) that Beats 98.31% in runtime in JavaScript
