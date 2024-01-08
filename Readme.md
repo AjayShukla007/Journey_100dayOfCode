@@ -177,8 +177,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 
 ### day 23 of #100DaysOfCode
-- caching the case study data
-- added middleware to handle re-fetching and caching in case study page
+- Fixed flow chart mistouch bug
+- Fixed layouting and responsivness of flow chart
 
 #### Recursion:
-- Solved Permutation I medium level on leetcode with tc of O(n * n) that Beats 98.31% in runtime in JavaScript
+- Solved Permutation I medium level on leetcode with tc of O(n * n) and sc of O(1) that Beats 98.31% in runtime in JavaScript
