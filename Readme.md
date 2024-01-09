@@ -188,4 +188,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Updated layouting and responsivness of flow chart
 
 #### Array:
-- Solved Largest Prime and Even Fibonacci Sum medium level on HackerRank with tc of O(n * n) and sc of O(1)
+- Solved Largest Prime and Even Fibonacci Sum medium level on HackerRank with tc of O(n) and sc of O(1)
