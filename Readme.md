@@ -182,3 +182,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Recursion:
 - Solved Permutation I medium level on leetcode with tc of O(n * n) and sc of O(1) that Beats 98.31% in runtime in JavaScript
+
+### day 24 of #100DaysOfCode
+- Fixed flow chart touch behaivior
+- Updated layouting and responsivness of flow chart
+
+#### Array:
+- Solved Largest Prime and Even Fibonacci Sum medium level on HackerRank with tc of O(n * n) and sc of O(1)
