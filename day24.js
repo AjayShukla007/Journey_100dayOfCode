@@ -13,7 +13,7 @@ function largestPrime() {
     console.log(n);
     }  
 }
-
+// both on hackerRank
 function evenFibonacciSum(limit) {
     let a = 1, b = 1, total = 0;
     while (a <= limit) {
