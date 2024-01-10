@@ -191,8 +191,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Largest Prime and Even Fibonacci Sum medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 25 of #100DaysOfCode
-- Fixed flow chart touch behaivior
-- Updated layouting and responsivness of flow chart
+- Added data filtering in Case Studies Page
+- Improved Case study layouting
 
 #### Array:
-- Solved Largest Prime and Even Fibonacci Sum medium level on HackerRank with tc of O(n) and sc of O(1)
+- Solved Sort Colors medium level on leetcode with tc of O(log n) and sc of O(1) Beats 86.57% in runtime with JavaScript
