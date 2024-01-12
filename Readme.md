@@ -203,3 +203,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array:
 - Solved Triangle Minimum Sum Total medium level on leetcode with tc of O(log n) and sc of O(1) Beats Beats 98.24% in runtime with JavaScript
+
+### day 27 of #100DaysOfCode
+- Optimized backend case study Api reduced response time by 0.6s
+- Improved chache storing logic for Cs page data
+
+#### Array:
+- Solved Triangle Minimum Sum Total medium level on leetcode with tc of O(log n) and sc of O(1) Beats Beats 98.24% in runtime with JavaScript
