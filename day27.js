@@ -14,5 +14,17 @@ var findMin = function (nums) {
   }
   return findMin(nums.slice(start, end + 1));
 };
+/// this will pass all the test cases
+var findMinAll = function (arr) {
+    let min_ele = arr[0];
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] < min_ele) {
+            min_ele = arr[i];
+        }
+    }
+    return min_ele;
+};
+
 
 console.log(findMin([3,2,1,4,5]));
+console.log(findMinAll([3,2,1,4,5]));
