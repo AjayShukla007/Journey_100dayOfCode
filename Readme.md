@@ -212,8 +212,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Find Minimum In Rotated Sorted Array medium level on leetcode with tc of O(log n) and sc of O(1) Beats Beats 84.33% in runtime with JavaScript
 
 ### day 28 of #100DaysOfCode
-- Optimized backend case study Api reduced response time by 0.6s
-- Improved cache storing logic for Cs page data
+- Created architacture flow for Ai-mrk project
+- Improved flow chart functionality
 
-#### Array:
-- Solved Search in Rotated Sorted Array II medium level on leetcode with tc of O(n) and sc of O(1) Beats Beats 84.33% in runtime with JavaScript
+#### BinarySearch:
+- Solved Search in Rotated Sorted Array II medium level on leetcode with tc of O(n) and sc of O(1) Beats Beats 98.78% in runtime with JavaScript
