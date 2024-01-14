@@ -1,4 +1,4 @@
-var findMin = function(nums) {
+var findMin = function (nums) {
   var left = 0;
   var right = nums.length - 1;
   var mid = 0;
