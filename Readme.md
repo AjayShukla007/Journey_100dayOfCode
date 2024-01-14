@@ -219,8 +219,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Search in Rotated Sorted Array II medium level on leetcode with tc of O(n) and sc of O(1) Beats Beats 98.78% in runtime with JavaScript
 
 ### day 29 of #100DaysOfCode
-- Created architacture flow for Ai-mrk project
-- Improved flow chart functionality
+- Added flow animation in Ai-mrk flow
+- Fixed flow element mistouch bug on case study page
 
 #### BinarySearch:
-- Solved Search in Rotated Sorted Array II medium level on leetcode with tc of O(n) and sc of O(1) Beats Beats 98.78% in runtime with JavaScript
+- Solved Find Minimum in Rotated Sorted Array II Hard level on leetcode with tc of O(n) and sc of O(1) Beats Beats 99.65% in runtime with JavaScript
