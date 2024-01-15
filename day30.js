@@ -1,4 +1,3 @@
-
 var insert = function (intervals, newInterval) {
     const res = [];
     let [mStart, mEnd] = newInterval;
