@@ -224,3 +224,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### BinarySearch:
 - Solved Find Minimum in Rotated Sorted Array II Hard level on leetcode with tc of O(n) and sc of O(1) Beats Beats 99.65% in runtime with JavaScript
+
+### day 30 of #100DaysOfCode
+- Updated flow animation
+- Fixed pixel saturation in flow animation of Ai-mrk flow
+
+#### BinarySearch:
+- Solved Find Minimum in Rotated Sorted Array II Hard level on leetcode with tc of O(n) and sc of O(1) Beats Beats 96.88% in runtime with JavaScript
