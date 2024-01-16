@@ -1,11 +1,11 @@
 function mergeOptimul(intervals) {
   if (intervals.length < 2) return intervals;
-  
+
   intervals.sort((a, b) => a[0] - b[0]);
-  
+
   const result = [];
   let previous = intervals[0];
-  
+
   for (let i = 1; i < intervals.length; i += 1) {
     if (previous[1] >= intervals[i][0]) {
       previous = [previous[0], Math.max(previous[1], intervals[i][1])];
@@ -14,12 +14,11 @@ function mergeOptimul(intervals) {
       previous = intervals[i];
     }
   }
-  
+
   result.push(previous);
-  
+
   return result;
 }
-
 
 // this function is not suited for all test cases of leetcode
 var merge = function (intervals) {
