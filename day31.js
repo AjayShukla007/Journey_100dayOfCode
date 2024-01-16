@@ -1,10 +1,10 @@
-var merge = function(intervals) {
+var merge = function (intervals) {
   var len = intervals.length;
   var res = [];
   var a = null;
   var b = null;
 
-  intervals.sort((c, d) => (c.start - d.start));
+  intervals.sort((c, d) => c.start - d.start);
 
   for (var i = 0; i < len; i++) {
     a = res[res.length - 1];
