@@ -251,4 +251,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Improved Search highlighter in Blogs Component
 
 #### Array :
-- Solved Combination Sum medium level on leetcode with tc of O(n) and sc of O(1) Beats 83.81% in runtime with JavaScript
+- Solved Swap Nodes in Pairs medium level on leetcode with tc of O(n) and sc of O(1) Beats 83.81% in runtime with JavaScript
