@@ -245,3 +245,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array :
 - Solved Combination Sum medium level on leetcode with tc of O(log n) and sc of O(1) Beats 98.8% in runtime with JavaScript
+
+### day 33 of #100DaysOfCode
+- Added Quick Navigation in head of the page
+- Improved Search highlighter in Blogs Component
+
+#### Array :
+- Solved Combination Sum medium level on leetcode with tc of O(n) and sc of O(1) Beats 83.81% in runtime with JavaScript
