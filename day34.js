@@ -1,3 +1,4 @@
+// brute force method this work with all test cases but uses high runtime and memory
 var addTwoNumbers = function (l1, l2) {
     var carry = 0;
     var sum = 0;
