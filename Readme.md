@@ -258,4 +258,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - ReWrite Search highlighter code for better performence in Blogs Component
 
 #### Linked List :
-- Solved Add Two Numbers medium level on leetcode with tc of O(m+n) and sc of O(1) Beats 86.51% in runtime with JavaScript
+- Solved Add Two Numbers medium level on leetcode with tc of O(max(m, n)) and sc of O(1) Beats 86.51% in runtime with JavaScript
