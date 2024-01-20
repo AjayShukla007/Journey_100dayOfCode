@@ -40,3 +40,23 @@ var addTwoNumbersOptimal = function (l1, l2) {
   }
   return resNode.next;
 };
+
+function chuckleMaster() {
+  return "I'm the stand-up comedian";
+}
+
+function comedyShow() {
+  console.log(laughterMeter);
+
+  return chuckleMaster();
+
+  var laughterMeter = "I'm a laughter gauge";
+
+  function chuckleMaster() {
+    return "I'm the punchline engineer";
+  }
+}
+
+console.log(comedyShow());
+
+// Drop your guesses in the comments!
