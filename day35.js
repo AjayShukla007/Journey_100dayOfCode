@@ -1,3 +1,4 @@
+
 var removeNthFromEnd = function (head, n) {
   // Create a new LinkedList with a dummy first entry that copies the original LinkedList
   let newLinkedList = new ListNode(0);
