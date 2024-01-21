@@ -266,3 +266,11 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Linked List :
 - Solved Remove Nth Node From End of List medium level on leetcode with tc of O(n) and sc of O(1) Beats 96.33% in runtime with JavaScript
+
+
+### day 36 of #100DaysOfCode
+- Added Zoom buttons in Flow Component of Case Studies page
+- 
+
+#### Array :
+- Solved Combination Sum II medium level on leetcode with tc of O(log n) and sc of O(1) Beats 98.8% in runtime with JavaScript
