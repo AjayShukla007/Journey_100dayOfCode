@@ -276,7 +276,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 37 of #100DaysOfCode
 - Improved Zoom buttons functionality in Flow Component of Case Studies page
-- Learned about Bit 
+- Learned about Bit Manipulation
 
 #### Array :
 - Solved Single Number I on leetcode with tc of O(n) and sc of O(1) Beats 88.82% in runtime with JavaScript
