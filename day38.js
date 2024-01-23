@@ -1,3 +1,4 @@
+// ^ can be used in different tasks and make the task simple
 const singleNumber = nums => {
   let one = 0;
   let two = 0;
