@@ -1,4 +1,4 @@
-const singleNumber = (nums)=>{
+const singleNumber = nums => {
   let one = 0;
   let two = 0;
   let len = nums.length;
