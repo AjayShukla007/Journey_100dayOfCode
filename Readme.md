@@ -280,3 +280,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array :
 - Solved Single Number I on leetcode with tc of O(n) and sc of O(1) Beats 88.82% in runtime with JavaScript
+
+### day 38 of #100DaysOfCode
+- Improved Zoom buttons functionality in Flow Component of Case Studies page
+- Learning about Bit Manipulation
+
+#### Array :
+- Solved Single Number II medium level on leetcode with tc of O(n) and sc of O(1) Beats 99.10% in runtime with JavaScript
