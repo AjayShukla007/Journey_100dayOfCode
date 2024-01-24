@@ -1,4 +1,4 @@
-const subsets = (nums)=>{
+const subsets = nums => {
   var res = [];
   helper(nums, res, [], 0);
   return res;
@@ -16,4 +16,4 @@ var helper = function (nums, res, arr, start) {
     helper(nums, res, arr, i + 1);
     arr.pop();
   }
-}
+};
