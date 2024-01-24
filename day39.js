@@ -19,3 +19,17 @@ var helper = function (nums, res, arr, start) {
     arr.pop();
   }
 };
+
+const subsetsOptimal = nums => {
+  function findSubset(array, subset) {
+        result.push([...subset]);
+        for(let i = 0; i < array.length; i++) {
+            subset.push(array[i]);
+            findSubset(array.slice(i + 1), subset);
+            subset.pop();
+        }
+    }
+    let result = [];
+    findSubset(nums, []);
+    return result;
+};
