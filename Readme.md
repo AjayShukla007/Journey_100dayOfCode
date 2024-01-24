@@ -289,8 +289,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Single Number II medium level on leetcode with tc of O(n) and sc of O(1) Beats 99.10% in runtime with JavaScript
 
 ### day 39 of #100DaysOfCode
-- 
-- Learning about Backtracking and Bit Manipulation
+- Improved Home page Navigation
+- Learned about Backtracking and Bit Manipulation
 
 #### Backtracking :
 - Solved SubSets I medium level on leetcode with tc of O(n) and sc of O(1) Beats 82.05% in runtime with JavaScript
