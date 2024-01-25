@@ -294,3 +294,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Backtracking :
 - Solved SubSets I medium level on leetcode with tc of O(n) and sc of O(1) Beats 82.05% in runtime with JavaScript
+
+### day 40 of #100DaysOfCode
+- Optimized Home Page of my portfolio website by removing unnecessory animations
+- Learning about Backtracking and Bit Manipulation
+
+#### Backtracking :
+- Solved SubSets II medium level on leetcode with tc of O(n^2) and sc of O(1) Beats 73.80% in runtime with JavaScript
