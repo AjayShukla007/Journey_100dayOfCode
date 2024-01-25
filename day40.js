@@ -18,7 +18,7 @@ var helper = function (nums, start, res, now) {
     }
   }
 };
-
+// this solution is more optimal then previos one
 const subsets2Otpimal = nums => {
   nums.sort((a, b) => a - b);
   const result = [];
