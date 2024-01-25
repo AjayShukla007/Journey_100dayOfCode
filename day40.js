@@ -18,3 +18,7 @@ var helper = function (nums, start, res, now) {
     }
   }
 };
+
+const subsets2Otpimal = (nums)=>{
+  
+}
