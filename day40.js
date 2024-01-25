@@ -1,4 +1,4 @@
-const singleNumberII = (nums) => {
+const singleNumberII = nums => {
   var res = [];
   nums.sort((a, b) => a - b);
   helper(nums, 0, res, []);
@@ -15,4 +15,4 @@ var helper = function (nums, start, res, now) {
       now.pop();
     }
   }
-}
+};
