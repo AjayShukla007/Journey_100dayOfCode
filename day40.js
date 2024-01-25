@@ -1,3 +1,5 @@
+// brute force solution will pass all the test cases but not a optimal solution
+
 const singleNumberII = nums => {
   var res = [];
   nums.sort((a, b) => a - b);
