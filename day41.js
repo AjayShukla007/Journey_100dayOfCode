@@ -1,3 +1,4 @@
+// more optimal solution
 const moveZeroesOptimal = nums => {
   let count = 0;
   nums.forEach((_, index) => {
