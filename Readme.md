@@ -301,3 +301,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Backtracking :
 - Solved SubSets II medium level on leetcode with tc of O(n^2) and sc of O(1) Beats 73.80% in runtime with JavaScript
+
+### day 41 of #100DaysOfCode
+- Started working more user freindly Head Navigation of my portfolio website
+- Learning more about Backtracking and Bit Manipulation
+
+#### Backtracking :
+- Solved  medium level on leetcode with tc of O(n^2) and sc of O(1) Beats 73.80% in runtime with JavaScript
