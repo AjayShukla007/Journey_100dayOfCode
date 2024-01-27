@@ -1,4 +1,4 @@
-const generate = function (numRows) {
+const pasclesTriangle = function (numRows) {
   var i = 0;
   var j = 0;
   var res = [];

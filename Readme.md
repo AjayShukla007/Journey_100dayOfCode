@@ -308,3 +308,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Backtracking :
 - Solved Move Zeroes on leetcode with tc of O(n log n) and sc of O(1) Beats 96.48% in runtime with JavaScript
+
+### day 42 of #100DaysOfCode
+- Started working more user freindly Head Navigation of my portfolio website
+- Learning more about Backtracking and Bit Manipulation
+
+#### DP :
+- Solved  on leetcode with tc of O(n ^ 2) and sc of O(1) Beats 96.48% in runtime with JavaScript
