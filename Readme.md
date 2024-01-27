@@ -314,4 +314,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning more about Backtracking and Bit Manipulation
 
 #### DP :
-- Solved  on leetcode with tc of O(n ^ 2) and sc of O(1) Beats 96.48% in runtime with JavaScript
+- Solved Pascal's Triangle on leetcode with tc of O(n ^ 2) and sc of O(1) Beats 86.35% in runtime with JavaScript
