@@ -1,3 +1,1 @@
-const getRow = (rowInded)=>{
-  
-};
+const getRow = rowInded => {};
