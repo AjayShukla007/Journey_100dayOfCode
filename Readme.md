@@ -315,3 +315,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### DP :
 - Solved Pascal's Triangle on leetcode with tc of O(n ^ 2) and sc of O(1) Beats 86.35% in runtime with JavaScript
+
+### day 43 of #100DaysOfCode
+- working styling Head Navigation of my portfolio website
+- Learning Bit Manipulation
+
+#### DP and Array:
+- Solved Pascal's Triangle II on leetcode with tc of O(2n) and sc of O(1) Beats 96.5% in runtime with JavaScript
