@@ -1,4 +1,5 @@
 // this solution is working as optimal as it should be
+// will see more optimal soluyion in future
 const getRow = rowInded => {
   var res = [];
   var i = 0;
