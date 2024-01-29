@@ -1,3 +1,4 @@
+
 const findRightInterval = function (intervals) {
   let map = new Map();
   let res = [];
