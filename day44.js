@@ -1,11 +1,8 @@
-/**
- * @param {number[][]} intervals
- * @return {number[]}
- */
-var findRightInterval = function (intervals) {
-    var map = new Map();
-    var res = [];
-    var max = -Infinity;
+
+const findRightInterval = function (intervals) {
+    let map = new Map();
+    let res = [];
+    let max = -Infinity;
     for (i = 0; i < intervals.length; i++) {
         map.set(intervals[i][0], i);
         max = Math.max(intervals[i][0], max);
