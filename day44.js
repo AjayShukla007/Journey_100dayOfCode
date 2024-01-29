@@ -1,4 +1,4 @@
-
+// this is a optimal solution and pass all the test cases
 const findRightInterval = function (intervals) {
   let map = new Map();
   let res = [];
