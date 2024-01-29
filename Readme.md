@@ -328,4 +328,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Array and BinarySearch:
-- Solved Find Right Interval on leetcode with tc of O(n log n) and sc of O(1) Beats 97.5% in runtime with JavaScript
+- Solved Find Right Interval on leetcode with tc of O(n log n) and sc of O(1) Beats 97.94% in runtime with JavaScript
