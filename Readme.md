@@ -324,8 +324,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Pascal's Triangle II on leetcode with tc of O(2n) and sc of O(1) Beats 96.5% in runtime with JavaScript
 
 ### day 43 of #100DaysOfCode
-- working styling Head Navigation of my portfolio website
-- Learning Bit Manipulation
+- working styling Head Navigation of my portfolio website(due to busy schedual i can't give proper time to my portfolio development)
+- Learning Bit Manipulation and Binary Search
 
 #### Array and BinarySearch:
 - Solved Find Right Interval on leetcode with tc of O(n log n) and sc of O(1) Beats 97.94% in runtime with JavaScript
