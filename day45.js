@@ -1,4 +1,4 @@
-
+// this is a optimal solution and passing all the test cases
 const singleNumInSortedArray = nums => {
   let left = 0;
   let right = nums.length - 1;
