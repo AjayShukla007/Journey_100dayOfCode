@@ -8,7 +8,7 @@ const singleNumInSortedArray = (nums)=>{
     if (nums[m] === nums[m+1]) {
       left = m + 2;
     } else {
-      right 
+      right = m;
     }
   }
   
