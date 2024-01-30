@@ -329,3 +329,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array and BinarySearch:
 - Solved Find Right Interval on leetcode with tc of O(n log n) and sc of O(1) Beats 97.94% in runtime with JavaScript
+
+### day 45 of #100DaysOfCode
+- Finishing of styling Head Navigation of my portfolio website
+- Learning Binary Search
+
+#### Array and BinarySearch:
+- Solved Single Num In Sorted Array on leetcode with tc of O(log n) and sc of O(1) Beats 90.94% in runtime with JavaScript
