@@ -4,6 +4,12 @@ const singleNumInSortedArray = (nums)=>{
   
   while(left < right){
     let middle = Math.round((left + right)/2);
+    if(m && 1) m--;
+    if (nums[m] ) {
+      
+    } else {
+      
+    }
   }
   
 };
