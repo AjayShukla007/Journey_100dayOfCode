@@ -1,4 +1,5 @@
 // this is a optimal solution and passing all the test cases
+// using binery search algorithm
 const singleNumInSortedArray = nums => {
   let left = 0;
   let right = nums.length - 1;
