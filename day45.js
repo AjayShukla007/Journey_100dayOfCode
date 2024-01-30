@@ -11,5 +11,5 @@ const singleNumInSortedArray = (nums)=>{
       right = m;
     }
   }
-  
+  return nums[left];
 };
