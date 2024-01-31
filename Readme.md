@@ -338,7 +338,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Single Num In Sorted Array on leetcode with tc of O(log n) and sc of O(1) Beats 90.94% in runtime with JavaScript
 
 ### day 46 of #100DaysOfCode
-- To prevent bot spam adding re 
+- To prevent bot spam adding recaptcha in contact form of About Page
 - Learning Binary Search and Bit Manipulation
 
 #### Array and BinarySearch:
