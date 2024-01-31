@@ -339,7 +339,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 46 of #100DaysOfCode
 - To prevent bot spam adding re 
-- Learning Binary Search and 
+- Learning Binary Search and Bit Manipulation
 
 #### Array and BinarySearch:
 - Solved UTF-8 Validation on leetcode with tc of O(log n) and sc of O(1) Beats 80.00% in runtime with JavaScript
