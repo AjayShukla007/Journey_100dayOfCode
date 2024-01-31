@@ -1,4 +1,4 @@
-// this solution if optimal and passing 
+// this solution if optimal and passing all the test cases
 const validUtf8 = data => {
   let binary = data.map(d => {
     let b = "00000000" + d.toString(2);
