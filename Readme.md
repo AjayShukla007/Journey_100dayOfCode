@@ -342,4 +342,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Binary Search
 
 #### Array and BinarySearch:
-- Solved  on leetcode with tc of O(log n) and sc of O(1) Beats 80.00% in runtime with JavaScript
+- Solved UTF-8 Validation on leetcode with tc of O(log n) and sc of O(1) Beats 80.00% in runtime with JavaScript
