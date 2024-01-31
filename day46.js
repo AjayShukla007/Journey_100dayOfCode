@@ -1,3 +1,4 @@
+
 const validUtf8 = data => {
   let binary = data.map(d => {
     let b = "00000000" + d.toString(2);
