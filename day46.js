@@ -1,3 +1,3 @@
-const validUtf8 = (data) => {
+const validUtf8 = data => {
   
-}
+};
