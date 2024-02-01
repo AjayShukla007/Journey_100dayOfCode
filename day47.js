@@ -1,3 +1,4 @@
+// this is a optimal solution and passing all the test casees
 const countNodes = root => {
   if (root == null) return null;
 
