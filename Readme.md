@@ -349,4 +349,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Array and Bit Manipulation:
-- Solved UTF-8 Validation on leetcode with tc of O(n) and sc of O(1) Beats 80.00% in runtime with JavaScript
+- Solved Count Complete Tree Nodes on leetcode with tc of O(n) and sc of O(1) Beats 94.71% in runtime and 90.9 in Memory with JavaScript
