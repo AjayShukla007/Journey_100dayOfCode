@@ -350,3 +350,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array and Bit Manipulation:
 - Solved Count Complete Tree Nodes on leetcode with tc of O(n) and sc of O(1) Beats 94.71% in runtime and 90.9 in Memory with JavaScript
+
+### day 48 of #100DaysOfCode
+- Improved recaptcha in contact form of About Page
+- Learning Bit Manipulation and BinarySearch
+
+#### Array and BinarySearch:
+- Solved Count Complete Tree Nodes on leetcode with tc of O(n) and sc of O(1) Beats 94.71% in runtime and 90.9 in Memory with JavaScript
