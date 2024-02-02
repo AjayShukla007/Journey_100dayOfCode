@@ -1,3 +1,3 @@
-const findDublicate = (nums) => {
+const findDublicate = nums => {
   
 };
