@@ -356,4 +356,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation and BinarySearch
 
 #### Array and BinarySearch:
-- Solved Count Complete Tree Nodes on leetcode with tc of O(n) and sc of O(1) Beats 94.71% in runtime and 90.9 in Memory with JavaScript
+- Solved Find the Duplicate Number on leetcode with tc of O(n) and sc of O(1) Beats 86.43% in runtime and 74% in Memory with JavaScript
