@@ -357,3 +357,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array and BinarySearch:
 - Solved Find the Duplicate Number on leetcode with tc of O(n) and sc of O(1) Beats 86.43% in runtime and 74% in Memory with JavaScript
+
+### day 49 of #100DaysOfCode
+- Started working on CsNav Styling and making it more responsive
+- Learning Bit Manipulation and BinarySearch
+
+#### Array and BinarySearch:
+- Solved Hamming Distance on leetcode with tc of O(n) and sc of O(1) Beats 83.58% in runtime and 62% in Memory with JavaScript
