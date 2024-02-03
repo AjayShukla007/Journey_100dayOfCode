@@ -1,3 +1,4 @@
+// 
 const hammingDistance = (x, y) => {
   x = x.toString(2);
   y = y.toString(2);
