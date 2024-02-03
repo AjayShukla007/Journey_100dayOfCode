@@ -1,0 +1,3 @@
+const hammingDistance = (x, y)=>{
+  
+}
