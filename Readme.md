@@ -370,4 +370,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation and BinarySearch
 
 #### Array and BinarySearch:
-- Solved Gray Code on leetcode with tc of O(n) and sc of O(1) Beats 83.58% in runtime and 62% in Memory with JavaScript
+- Solved Gray Code on leetcode with tc of O(2^n) and sc of O(1) Beats 95.24% in runtime and 76.21% in Memory with JavaScript
