@@ -364,3 +364,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array and BinarySearch:
 - Solved Hamming Distance on leetcode with tc of O(n) and sc of O(1) Beats 83.58% in runtime and 62% in Memory with JavaScript
+
+### day 50 of #100DaysOfCode
+- 50 days 
+- Learning Bit Manipulation and BinarySearch
+
+#### Array and BinarySearch:
+- Solved Hamming Distance on leetcode with tc of O(n) and sc of O(1) Beats 83.58% in runtime and 62% in Memory with JavaScript
