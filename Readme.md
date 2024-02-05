@@ -377,4 +377,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Array and bit Manipulation:
-- Solved Gray Code on leetcode with tc of O(n) and sc of O(1) Beats 81.82% in runtime and 52% in Memory with JavaScript
+- Solved Bitwise AND of Numbers Range on leetcode with tc of O(n) and sc of O(1) Beats 81.82% in runtime and 52% in Memory with JavaScript
