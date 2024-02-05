@@ -1,3 +1,4 @@
+// optimal solution and pass all the leetcode test cases
 const rangeLeftAndRight = (left, right) => {
   let shiftcount = 0;
 
