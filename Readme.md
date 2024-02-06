@@ -384,4 +384,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation and Binary Search
 
 #### Array and bit Manipulation:
-- Solved Single Number III on leetcode with tc of O(n) and sc of O(1) Beats 96.82% in runtime and 52% in Memory with JavaScript
+- Solved Single Number III on leetcode with tc of O(n) and sc of O(1) Beats 96.43% in runtime and 83.9% in Memory with JavaScript
