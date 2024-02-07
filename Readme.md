@@ -391,4 +391,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation and Binary Search
 
 #### Array and bit Manipulation:
-- Solved  on leetcode with tc of O(log(n)) and sc of O(1) Beats 78.71% in runtime and 59.2% in Memory with JavaScript
+- Solved Divide Two Integers on leetcode with tc of O(log(n)) and sc of O(1) Beats 78.71% in runtime and 59.2% in Memory with JavaScript
