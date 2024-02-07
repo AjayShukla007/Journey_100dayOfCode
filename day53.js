@@ -9,7 +9,8 @@ const divideTwoIntegers = (divident, divider) => {
   if (divisor === -1 && dividend === -2147483648) return 2147483647;
   if (dis === 1) return divisor > 0 ? dividend : -dividend;
 
-  while (arr[arr.length - 1] < did) arr.push(arr[arr.length - 1] + arr[arr.length - 1]);
+  while (arr[arr.length - 1] < did)
+    arr.push(arr[arr.length - 1] + arr[arr.length - 1]);
 
   for (var i = arr.length - 1; i >= 0; i--) {
     if (did >= arr[i]) {
