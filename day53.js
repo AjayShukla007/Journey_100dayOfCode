@@ -1,0 +1,3 @@
+const divideTwoIntegers = (divident, divider)=>{
+  
+}
