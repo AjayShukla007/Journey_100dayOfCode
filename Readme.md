@@ -392,3 +392,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Array and bit Manipulation:
 - Solved Divide Two Integers on leetcode with tc of O(log(n)) and sc of O(1) Beats 78.71% in runtime and 59.2% in Memory with JavaScript
+
+### day 54 of #100DaysOfCode
+- Implemented edt for security in contact form of About page
+- Learning Bit Manipulation
+
+#### Array and bit Manipulation:
+- Solved Divide Two Integers on leetcode with tc of O(log(n)) and sc of O(1) Beats 78.71% in runtime and 59.2% in Memory with JavaScript
