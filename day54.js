@@ -1,3 +1,3 @@
-const sumOfTwoIntegers = (a, b)=>{
+const sumOfTwoIntegers = (a, b) => {
   
-}
+};
