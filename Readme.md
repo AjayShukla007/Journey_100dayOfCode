@@ -398,4 +398,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Array and bit Manipulation:
-- Solved sum Of Two Integers on leetcode with tc of O(log(max(a, b))) and sc of O(1) Beats 92.71% in runtime and 48% in Memory with JavaScript
+- Solved sum Of Two Integers on leetcode with tc of O(log(max(a, b))) and sc of O(1) Beats 92.55% in runtime and 48% in Memory with JavaScript
