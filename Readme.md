@@ -404,5 +404,5 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Started new project full stack webApp for RTSP video streaming
 - Learning Bit Manipulation and Recursion
 
-#### Array and bit Manipulation:
+#### Recursion and bit Manipulation:
 - Solved Power Of Two on leetcode with tc of O(log(2n)) and sc of O(1) Beats 84.02% in runtime and 63.84% in Memory with JavaScript
