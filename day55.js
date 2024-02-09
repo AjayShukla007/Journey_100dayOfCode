@@ -1,3 +1,4 @@
+// this is an optimal approach 
 const powerOfTwo = n => {
   return (n & (n - 1)) == 0;
 };
