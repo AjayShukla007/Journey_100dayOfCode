@@ -1,3 +1,3 @@
-const powerOfTwo = (n)=>{
+const powerOfTwo = n => {
   
-}
+};
