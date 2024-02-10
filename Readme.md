@@ -412,4 +412,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation and Recursion
 
 #### Recursion and bit Manipulation:
-- Solved Power Of Four on leetcode with tc of O(log(2n)) and sc of O(1) Beats 65.15% in runtime and 87.03% in Memory with JavaScript
+- Solved Power Of Four on leetcode with tc of O(log2n)) and sc of O(1) Beats 65.15% in runtime and 87.03% in Memory with JavaScript
