@@ -1,3 +1,3 @@
-const isPpwerOfFour = (n) => {
+const isPowerOfFour = (n) => {
   
-}
+};
