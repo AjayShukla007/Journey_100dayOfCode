@@ -406,3 +406,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Recursion and bit Manipulation:
 - Solved Power Of Two on leetcode with tc of O(log(2n)) and sc of O(1) Beats 84.02% in runtime and 63.84% in Memory with JavaScript
+
+### day 56 of #100DaysOfCode
+- Added video stream backend logic in RTSP Stream video webApp
+- Learning Bit Manipulation and Recursion
+
+#### Recursion and bit Manipulation:
+- Solved Power Of Four on leetcode with tc of O(log(2n)) and sc of O(1) Beats 65.15% in runtime and 87.03% in Memory with JavaScript
