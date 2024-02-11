@@ -1,7 +1,4 @@
-/**
- * @param {number} num
- * @return {string[]}
- */
+
 var readBinaryWatch = function(num) {
   var res = [];
   for (var i = 0; i < 12; i++) {
