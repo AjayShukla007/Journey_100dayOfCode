@@ -1,3 +1,4 @@
+// this is a optimal solution and pass all the test cases of leetcode
 var readBinaryWatch = function (num) {
   var res = [];
   for (var i = 0; i < 12; i++) {
