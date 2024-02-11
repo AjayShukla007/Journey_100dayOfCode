@@ -1,10 +1,9 @@
-
-var readBinaryWatch = function(num) {
+var readBinaryWatch = function (num) {
   var res = [];
   for (var i = 0; i < 12; i++) {
     for (var j = 0; j < 60; j++) {
       if (numberOfDigit(i) + numberOfDigit(j) === num) {
-        res.push(i + ':' + (j < 10 ? ('0' + j) : j));
+        res.push(i + ":" + (j < 10 ? "0" + j : j));
       }
     }
   }
