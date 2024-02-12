@@ -426,4 +426,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved Number Complement on leetcode with tc of O(log2n)) and sc of O(1) Beats 93.% in runtime and 38.22% in Memory with JavaScript
+- Solved Number Complement on leetcode with tc of O(log2n)) and sc of O(1) Beats 93.56% in runtime and 57.9% in Memory with JavaScript
