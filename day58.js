@@ -1,4 +1,4 @@
-//
+// this is an optimal solution and passing all the test cases of leetcode
 const findComplement = num => {
   let r = 0;
   let i = 1;
