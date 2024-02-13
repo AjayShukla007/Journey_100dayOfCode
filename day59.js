@@ -1,3 +1,4 @@
+// 
 const bineryGap = n => {
   binary = N.toString(2);
   binarysplit = binary.split("");
