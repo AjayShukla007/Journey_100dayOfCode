@@ -1,6 +1,6 @@
 // this is an optimal solution and pass all the test cases
 const bineryGap = n => {
-  binary = N.toString(2);
+  binary = n.toString(2);
   binarysplit = binary.split("");
   let count = 0;
   let arr = [];
