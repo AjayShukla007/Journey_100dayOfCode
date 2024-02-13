@@ -1,4 +1,4 @@
-// this is an optimal solution
+// this is an optimal solution and pass all the test cases
 const bineryGap = n => {
   binary = N.toString(2);
   binarysplit = binary.split("");
