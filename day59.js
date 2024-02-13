@@ -1,4 +1,4 @@
-// 
+// this is an optimal solution
 const bineryGap = n => {
   binary = N.toString(2);
   binarysplit = binary.split("");
