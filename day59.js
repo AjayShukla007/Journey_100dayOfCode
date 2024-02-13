@@ -1,3 +1,3 @@
-const bineryGap = (n) => {
+const bineryGap = n => {
   
-}
+};
