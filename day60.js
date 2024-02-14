@@ -99,8 +99,4 @@ function primeBitsInRange(l, r)
 
 var l = 6, r = 10; 
  
-document.write(primeBitsInRange(l, r));
- 
-// This code is contributed by Rajput-Ji 
- 
-</script>
+console.log(primeBitsInRange(l, r));
