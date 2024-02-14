@@ -434,3 +434,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Binery Gap on leetcode with tc of O(log2n)) and sc of O(1) Beats 96.05% in runtime and 43.22% in Memory with JavaScript
+
+### day 60 of #100DaysOfCode
+- Working on frontend ReactJS for RTSP video streaming web app 
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Prime Number of Set Bits in Binary Representation on leetcode with tc of O(log2N)) and sc of O(1) Beats 99.05% in runtime and 48.57% in Memory with JavaScript
