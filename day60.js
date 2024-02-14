@@ -1,5 +1,5 @@
 // To count the bits
-
+// this is an optimal approach and will pass all the test cases
 function BitCount(n) {
   count = 0;
 
