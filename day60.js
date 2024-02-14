@@ -64,27 +64,25 @@ var l = 6,
 
 console.log(primeBitsInRange(l, r));
 
-
-
 // THIS IS AN OPTIMAL APPORACH
 
-const getNumOfSetBits = function(n) {
-    let result = 0;
-    while (n) {
-        result += (n & 1);
-        n = n >> 1;
-    }
-    return result;
-}
+const getNumOfSetBits = function (n) {
+  let result = 0;
+  while (n) {
+    result += n & 1;
+    n = n >> 1;
+  }
+  return result;
+};
 
 const primes = new Set([2, 3, 5, 7, 11, 13, 17, 19, 23]);
 
-const countPrimeSetBits = function(L, R) {
-    let count = 0;
-    for (let n = L; n <= R; n++) {
-        if (primes.has(getNumOfSetBits(n))) {
-            count++;
-        }
+const countPrimeSetBits = function (L, R) {
+  let count = 0;
+  for (let n = L; n <= R; n++) {
+    if (primes.has(getNumOfSetBits(n))) {
+      count++;
     }
-    return count;
+  }
+  return count;
 };
