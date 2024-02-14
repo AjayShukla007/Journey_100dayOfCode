@@ -1,102 +1,65 @@
 // To count the bits
 
-function BitCount(n)
-{
+function BitCount(n) {
+  count = 0;
 
-    count = 0;
+  while (n != 0) {
+    count++;
 
-    while (n != 0)
+    n &= n - 1;
+  }
 
-    {
-
-        count++;
-
-        n &= (n - 1);
-
-    }
-
-     
-
-    return count;
+  return count;
 }
- 
 
-function isPrime(n)
-{
+function isPrime(n) {
+  // Corner cases
 
-     
+  if (n <= 1) return false;
 
-    // Corner cases
+  if (n <= 3) return true;
 
-    if (n <= 1) 
+  // This is checked so that we can skip
 
-        return false;
+  // middle five numbers in below loop
 
-    if (n <= 3) 
+  if (n % 2 == 0 || n % 3 == 0) return false;
 
-        return true;
- 
+  for (i = 5; i * i <= n; i = i + 6)
+    if (n % i == 0 || n % (i + 2) == 0) return false;
 
-    // This is checked so that we can skip 
-
-    // middle five numbers in below loop
-
-    if (n % 2 == 0 || n % 3 == 0) 
-
-        return false;
- 
-
-    for(i = 5; i * i <= n; i = i + 6)
-
-        if (n % i == 0 || n % (i + 2) == 0)
-
-            return false;
- 
-
-    return true;
+  return true;
 }
- 
-// Count number, that contains 
+
+// Count number, that contains
 // prime number of set bit
 
-function primeBitsInRange(l, r)
-{
+function primeBitsInRange(l, r) {
+  // tot_bit store number of bit in number
 
-     
+  var tot_bit,
+    count = 0;
 
-    // tot_bit store number of bit in number
+  // Iterate loop from l to r
 
-    var tot_bit, count = 0;
- 
+  for (i = l; i <= r; i++) {
+    // Use predefined function for finding
 
-    // Iterate loop from l to r
+    // set bit it is return number of set bit
 
-    for(i = l; i <= r; i++)
+    tot_bit = BitCount(i);
 
-    {
+    // Check tot_bit prime or, not
 
-         
+    if (isPrime(tot_bit)) count++;
+  }
 
-        // Use predefined function for finding 
-
-        // set bit it is return number of set bit
-
-        tot_bit = BitCount(i);
- 
-
-        // Check tot_bit prime or, not
-
-        if (isPrime(tot_bit))
-
-            count++;
-
-    }
-
-    return count;
+  return count;
 }
- 
+
 // Driver code
 
-var l = 6, r = 10; 
- 
+var l = 6,
+  r = 10;
+
 console.log(primeBitsInRange(l, r));
