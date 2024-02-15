@@ -1,3 +1,3 @@
-const totalHammingDistance = (nums)=>{
+const totalHammingDistance = nums => {
   
-}
+};
