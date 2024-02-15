@@ -441,3 +441,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Prime Number of Set Bits in Binary Representation on leetcode with tc of O(log2N)) and sc of O(1) Beats 99.05% in runtime and 48.57% in Memory with JavaScript
+
+### day 61 of #100DaysOfCode
+- Completed RTPS Video Component on frontend for RTSP video streaming web app
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Total Hamming Distance on leetcode with tc of O(log2n)) and sc of O(1) Beats 99.05% in runtime and 48.57% in Memory with JavaScript
