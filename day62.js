@@ -1,3 +1,4 @@
+// this is an optimal approach and will pass all the test cases
 const toHex = n => {
   let ret = "";
   const chars = "0123456789abcdef";
