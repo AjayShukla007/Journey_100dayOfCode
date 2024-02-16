@@ -454,4 +454,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved Total Hamming Distance on leetcode with tc of O(log2n)) and sc of O(1) Beats 98.21% in runtime and 43.88% in Memory with JavaScript
+- Solved  on leetcode with tc of O(log2n)) and sc of O(1) Beats 92.24% in runtime and 63.91% in Memory with JavaScript
