@@ -448,3 +448,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Total Hamming Distance on leetcode with tc of O(log2n)) and sc of O(1) Beats 98.21% in runtime and 43.88% in Memory with JavaScript
+
+### day 62 of #100DaysOfCode
+- Working on Overlay text Component on frontend for RTSP video streaming web app
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Total Hamming Distance on leetcode with tc of O(log2n)) and sc of O(1) Beats 98.21% in runtime and 43.88% in Memory with JavaScript
