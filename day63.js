@@ -1,4 +1,4 @@
-// 
+// this is an sub Optimal solution and passing all the leetcode test cases
 const decode = (encoded, first) => {
   const arr = new Array(encoded.length + 1);
   arr[0] = first;

@@ -461,4 +461,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved Convert a Number to Hexadecimal on leetcode with tc of O(log2n)) and sc of O(1) Beats 97.3% in runtime and 44.8% in Memory with JavaScript
+- Solved Decode XORed Array on leetcode with tc of O(2^n)) and sc of O(1) Beats 97.3% in runtime and 44.8% in Memory with JavaScript
