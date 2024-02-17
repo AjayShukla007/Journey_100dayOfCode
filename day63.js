@@ -1,3 +1,4 @@
+// 
 const decode = (encoded, first) => {
   const arr = new Array(encoded.length + 1);
   arr[0] = first;
