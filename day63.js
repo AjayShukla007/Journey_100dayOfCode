@@ -1,0 +1,1 @@
+const decode = (encoded, first)=>{}
