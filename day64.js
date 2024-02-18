@@ -1,1 +1,3 @@
-const decode = (encoded)=>{}
+const decode = encoded => {
+  
+};
