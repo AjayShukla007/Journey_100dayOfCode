@@ -1,3 +1,4 @@
+
 const decode = encoded => {
   let list = Array.from(encoded);
   // Now we get [a1^a2, a1^a3 ... a1^an]
