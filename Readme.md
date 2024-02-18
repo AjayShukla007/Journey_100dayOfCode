@@ -468,4 +468,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved Decode XORed Permutation on leetcode with tc of O(logn) and sc of O(1) Beats 97.3% in runtime and 44.8% in Memory with JavaScript
+- Solved Decode XORed Permutation on leetcode with tc of O(logn) and sc of O(1) Beats 74.1% in runtime and 86.48% in Memory with JavaScript
