@@ -462,3 +462,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Decode XORed Array on leetcode with tc of O(2^n)) and sc of O(1) Beats 97.3% in runtime and 44.8% in Memory with JavaScript
+
+### day 64 of #100DaysOfCode
+- Working on Overlay logo Component on frontend for RTSP video streaming web app
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Decode XORed Permutation on leetcode with tc of O(2^n)) and sc of O(1) Beats 97.3% in runtime and 44.8% in Memory with JavaScript
