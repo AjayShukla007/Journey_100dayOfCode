@@ -1,1 +1,3 @@
-const hasAltarnatingBits = (n)=>{}
+const hasAltarnatingBits = n => {
+  
+};
