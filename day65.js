@@ -1,0 +1,1 @@
+const hasAltarnatingBits = (n)=>{}
