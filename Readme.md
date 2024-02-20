@@ -476,3 +476,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Binary Number with Alternating Bits on leetcode with tc of O(logn) and sc of O(1) Beats 76.04% in runtime and 52.7% in Memory with JavaScript
+
+### day 66 of #100DaysOfCode
+- Completed backend system for adding img files in the database for Overlay logo for RTSP video streaming web app
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Complement of Base 10 Integer on leetcode with tc of O(log n) and sc of O(1) Beats 81.46% in runtime and 43.05% in Memory with JavaScript

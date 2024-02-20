@@ -1,4 +1,4 @@
-
+// this is the optimal solution
 const bitwiseComplement = n => {
   let mask = 1;
   while (mask < n) {
