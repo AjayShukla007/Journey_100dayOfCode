@@ -483,3 +483,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Complement of Base 10 Integer on leetcode with tc of O(log n) and sc of O(1) Beats 81.46% in runtime and 43.05% in Memory with JavaScript
+
+### day 67 of #100DaysOfCode
+- Completed backend system for Text Overlay in the database for RTSP video streaming web app
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Bitwise ORs of Subarrays on leetcode with tc of O(log n) and sc of O(1) Beats 100.0% in runtime and 100.0% in Memory with JavaScript
