@@ -1,3 +1,4 @@
+// this is a optimal solution and beats 100% in js rutime on date 21/02/2024 at 09:19:pm
 const subarrayBitwiseORs = arr => {
   let uniqueOrValues = new Set(); // To store unique OR values of subarrays.
   let currentOr = 0; // To store the running OR value of the current subarray.
