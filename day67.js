@@ -1,1 +1,3 @@
-const subarrayBitwiseORs = (arr)=>{}
+const subarrayBitwiseORs = arr => {
+  
+};
