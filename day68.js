@@ -25,3 +25,5 @@ const minFlips = (a, b, c) => {
   }
   return ans;
 };
+
+console.log(minFlips());
