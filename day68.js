@@ -13,4 +13,6 @@ class Solution {
   }
 }
 
-const minFlips = (a,b,c)=>{}
+const minFlips = (a, b, c) =>{
+  
+}
