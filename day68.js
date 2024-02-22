@@ -13,15 +13,14 @@
 //   }
 // }
 
-const minFlips = (a, b, c) =>{
+const minFlips = (a, b, c) => {
   let kMaxBit = 30;
   let ans = 0;
   for (let i = 0; i < kMaxBit; i++) {
-    if((c >> i & 1) == 1){
-      ans+=((a >> i & 1) == 0 && (b >> i & 1) == 0) ? 1 : 0;
-    }else if((c >> i & 1) == 1){
-      ans += ((a >> i & 1) == 1 ? 1 : 0) + ((b >> i & 1) == 1 ? 1 : 0);
-
+    if (((c >> i) & 1) == 1) {
+      ans += ((a >> i) & 1) == 0 && ((b >> i) & 1) == 0 ? 1 : 0;
+    } else if (((c >> i) & 1) == 1) {
+      ans += (((a >> i) & 1) == 1 ? 1 : 0) + (((b >> i) & 1) == 1 ? 1 : 0);
     }
   }
   return ans;
