@@ -21,6 +21,8 @@ let arr = [5, 9, 7, 6];
 let n = arr.length;
 console.log(pairORSum(arr, n));
 
+
+//THIS IS THE POPTIMAL SOLUTION AND PASS ALL TEST CASES
 // Function to compute the bitwise XOR of all elements in an array
 function bitwiseXOROfArray(elements) {
   // Reduce the array by applying the XOR operation between elements
