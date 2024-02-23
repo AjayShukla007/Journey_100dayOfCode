@@ -503,4 +503,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved Minimum Flips to Make a OR b Equal to c on leetcode with tc of O(n) and sc of O(1) Beats 100.00% in runtime and 72.73% in Memory with JavaScript
+- Solved  on leetcode with tc of O(n) and sc of O(1) Beats 100.00% in runtime and 72.73% in Memory with JavaScript
