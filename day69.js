@@ -4,7 +4,7 @@
 // Returns sum of bitwise OR
 // of all pairs
 const pairORSum = (arr, n) => {
-  let ans = 0; // Initialize result
+  let ans = 0;
 
   // Consider all pairs (arr[i], arr[j) such that
 
