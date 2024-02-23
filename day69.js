@@ -21,4 +21,4 @@ let arr = [5, 9, 7, 6];
 let n = arr.length;
 console.log(pairORSum(arr, n));
 
-//
+
