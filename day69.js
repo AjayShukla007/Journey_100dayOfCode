@@ -21,4 +21,20 @@ let arr = [5, 9, 7, 6];
 let n = arr.length;
 console.log(pairORSum(arr, n));
 
+// Function to compute the bitwise XOR of all elements in an array
+function bitwiseXOROfArray(elements) {
+    // Reduce the array by applying the XOR operation between elements
+    return elements.reduce((accumulated, current) => accumulated ^ current, 0);
+}
+
+// Function to calculate the bitwise AND of the XOR sum of two arrays
+function getXORSum(arr1, arr2) {
+    // Calculate the XOR sum of the first array
+    const xorSumArr1 = bitwiseXOROfArray(arr1);
+    // Calculate the XOR sum of the second array
+    const xorSumArr2 = bitwiseXOROfArray(arr2);
+  
+    // Return the result of the bitwise AND operation between the two XOR sums
+    return xorSumArr1 & xorSumArr2;
+}
 
