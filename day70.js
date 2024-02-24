@@ -1,0 +1,1 @@
+const xorOparation = (n, start)=>{}
