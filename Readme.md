@@ -504,3 +504,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Find XOR Sum of All Pairs Bitwise AND on leetcode with tc of O(n) and sc of O(1) Beats 100.00% in runtime and 72.73% in Memory with JavaScript
+
+### day 70 of #100DaysOfCode
+- Working on styling OverlayLogo Component for RTSP video streaming web app
+- Learning Bit Manipulation
+
+#### bit Manipulation:
+- Solved Find XOR Sum of All Pairs Bitwise AND on leetcode with tc of O(n) and sc of O(1) Beats 96.00% in runtime and 55.9% in Memory with JavaScript
