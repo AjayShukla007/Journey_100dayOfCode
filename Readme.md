@@ -510,4 +510,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved Find XOR Sum of All Pairs Bitwise AND on leetcode with tc of O(n) and sc of O(1) Beats 96.00% in runtime and 55.9% in Memory with JavaScript
+- Solved XOR Operation in an Array on leetcode with tc of O(n) and sc of O(1) Beats 96.60% in runtime and 55.9% in Memory with JavaScript

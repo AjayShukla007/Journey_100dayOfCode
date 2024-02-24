@@ -1,3 +1,4 @@
+// this is an opitmal solutoin and will pass all the test cases
 const xorOparation = (n, start) => {
   let result = 0;
 
