@@ -1,1 +1,3 @@
-const xorOparation = (n, start)=>{}
+const xorOparation = (n, start) => {
+  
+};
