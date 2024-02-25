@@ -1,0 +1,1 @@
+const xorBeauty = (n)=>{}
