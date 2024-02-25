@@ -1,1 +1,1 @@
-const xorBeauty = (n)=>{}
+const xorBeauty = n => {};
