@@ -517,4 +517,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### bit Manipulation:
-- Solved XOR Operation in an Array on leetcode with tc of O(n) and sc of O(1) Beats 92.86% in runtime and 44.23% in Memory with JavaScript
+- Solved Find Xor-Beauty of Array on leetcode with tc of O(n) and sc of O(1) Beats 92.86% in runtime and 44.23% in Memory with JavaScript
