@@ -1,1 +1,3 @@
-const xorBeauty = n => {};
+const xorBeauty = n => {
+  return nums.reduce((acc, num) => acc ^ num)
+};
