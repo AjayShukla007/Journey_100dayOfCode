@@ -518,3 +518,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### bit Manipulation:
 - Solved Find Xor-Beauty of Array on leetcode with tc of O(n) and sc of O(1) Beats 92.86% in runtime and 44.23% in Memory with JavaScript
+
+### day 72 of #100DaysOfCode
+- Working on test assignment for Radiant Riches
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved and Revised Diagonal Difference with tc of linear O(n^2) and sc of O(1) on HackerRank
