@@ -520,7 +520,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Find Xor-Beauty of Array on leetcode with tc of O(n) and sc of O(1) Beats 92.86% in runtime and 44.23% in Memory with JavaScript
 
 ### day 72 of #100DaysOfCode
-- Working on test assignment for Radiant Riches
+- Working on test assignment for Radiant Riches using ReactJS and tailwindCSS with SASS
 - Learning Bit Manipulation
 
 #### Bit Manipulation:

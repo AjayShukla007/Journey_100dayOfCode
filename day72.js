@@ -1,4 +1,4 @@
-
+// this is an opyimal solution ans will pass all the test cases of hackerrank
 function diagonalDifference(arr) {
   let leftDia = 0;
   let rightDia = 0;
