@@ -1,1 +1,3 @@
-const findArray = (pref)=>{}
+const findArray = pref => {
+  
+};
