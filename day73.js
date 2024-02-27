@@ -1,4 +1,4 @@
-
+// this is an optimal soltuion and pqss all the leetcode test cases
 const findArray = pref => {
   let ans = new Array(pref.length);
   ans[0] = pref[0];
