@@ -525,3 +525,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved and Revised Diagonal Difference with tc of linear O(n^2) and sc of O(1) on HackerRank
+
+### day 73 of #100DaysOfCode
+- Submitted test assignment for Radiant Riches with additional featurs like responsiveness
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Find The Original Array of Prefix Xor on leetcode with tc of O(n) and sc of O(1) Beats 92.86% in runtime and 6.23% in Memory with JavaScript
