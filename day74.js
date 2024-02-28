@@ -1,4 +1,5 @@
 // starting here
+// this will pass all the test cases of leetcode
 class TreeNode {
   constructor(val) {
     this.val = val;

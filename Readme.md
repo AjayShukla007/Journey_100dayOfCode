@@ -535,7 +535,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 74 of #100DaysOfCode
 - Completed OverlayText Component now working on styling
-- Learning Bit Manipulation;
+- Learning Bit Manipulation
 
 #### Bit Manipulation:
 - Solved Find Bottom Left Tree Value  JavaScript on leetcode with tc of O(n^2) and sc of O(1) Beats 71.76% in runtime and 44.8% in Memory with JavaScript
