@@ -7,7 +7,27 @@ class TreeNode {
 }
 
 function findBottomLeftValue(root) {
-  
+  if (!root) return null;
+
+  let queue = [root];
+  let leftmostValue = null;
+
+  while (queue.length > 0) {
+    const levelSize = queue.length;
+
+    for (let i = 0; i < levelSize; i++) {
+      const node = queue.shift();
+
+      if (i === 0) {
+        leftmostValue = node.val;
+      }
+
+      if (node.left) queue.push(node.left);
+      if (node.right) queue.push(node.right);
+    }
+  }
+
+  return leftmostValue;
 }
 
 // Example usage:
