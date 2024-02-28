@@ -532,3 +532,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Find The Original Array of Prefix Xor on leetcode with tc of O(n^2) and sc of O(1) Beats 93.95% in runtime and 63.73% in Memory with JavaScript
+
+### day 74 of #100DaysOfCode
+- Completed OverlayText Component now working on styling
+- Learning Bit Manipulation;
+
+#### Bit Manipulation:
+- Solved  on leetcode with tc of O(n^2) and sc of O(1) Beats 93.95% in runtime and 63.73% in Memory with JavaScript
