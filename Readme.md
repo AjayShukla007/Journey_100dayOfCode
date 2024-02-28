@@ -538,4 +538,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation;
 
 #### Bit Manipulation:
-- Solved  on leetcode with tc of O(n^2) and sc of O(1) Beats 93.95% in runtime and 63.73% in Memory with JavaScript
+- Solved Find Bottom Left Tree Value  JavaScript on leetcode with tc of O(n^2) and sc of O(1) Beats 71.76% in runtime and 44.8% in Memory with JavaScript
