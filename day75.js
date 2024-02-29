@@ -1,1 +1,3 @@
-const pow =>(x,n)=>{}
+const pow = (x, n) => {
+  
+};
