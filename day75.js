@@ -1,3 +1,4 @@
+// this will pass all the test cases of leetcode
 function pow(x, n) {
   if (n === 0) {
     return 1;

@@ -539,3 +539,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Find Bottom Left Tree Value  JavaScript on leetcode with tc of O(n^2) and sc of O(1) Beats 71.76% in runtime and 44.8% in Memory with JavaScript
+
+### day 75 of #100DaysOfCode
+- Completed OverlayLogo Component now working on styling
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Pow(x, n) on leetcode with tc of O(n^2) and sc of O(1) Beats 85.33% in runtime and 63.1% in Memory with JavaScript
