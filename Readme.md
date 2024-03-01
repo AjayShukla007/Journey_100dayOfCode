@@ -546,3 +546,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Pow(x, n) on leetcode with tc of O(n^2) and sc of O(1) Beats 85.33% in runtime and 63.1% in Memory with JavaScript
+
+### day 76 of #100DaysOfCode
+- Completed styling OverlayLogo Component
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Check if Bitwise OR Has Trailing Zeros on leetcode with tc of O(n^2) and sc of O(1) Beats % in runtime and % in Memory with JavaScript
