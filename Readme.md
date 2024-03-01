@@ -548,7 +548,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Pow(x, n) on leetcode with tc of O(n^2) and sc of O(1) Beats 85.33% in runtime and 63.1% in Memory with JavaScript
 
 ### day 76 of #100DaysOfCode
-- Completed styling OverlayLogo Component
+- Completed styling OverlayLogo Component of RTPS video web app
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
