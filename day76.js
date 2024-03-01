@@ -1,1 +1,3 @@
-const hasTrailingZeros =(nums)=>{}
+const hasTrailingZeros = nums => {
+  
+};
