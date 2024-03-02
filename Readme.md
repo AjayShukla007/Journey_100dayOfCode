@@ -559,4 +559,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Minimum Bit Flips to Convert Number on leetcode with tc of O(n^2) and sc of O(1) Beats 100.00% in runtime and 48.21% in Memory with JavaScript
+- Solved Minimum Bit Flips to Convert Number on leetcode with tc of O(n^2) and sc of O(1) Beats 100.00% in runtime and 33.62% in Memory with JavaScript
