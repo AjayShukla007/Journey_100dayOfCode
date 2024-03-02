@@ -553,3 +553,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Check if Bitwise OR Has Trailing Zeros on leetcode with tc of O(n^2) and sc of O(1) Beats 80.98% in runtime and 48.21% in Memory with JavaScript
+
+### day 77 of #100DaysOfCode
+- Working on Log system on backend of RTPS video web app
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Minimum Bit Flips to Convert Number on leetcode with tc of O(n^2) and sc of O(1) Beats 80.98% in runtime and 48.21% in Memory with JavaScript
