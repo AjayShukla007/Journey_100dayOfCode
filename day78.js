@@ -1,3 +1,4 @@
+// this is an optimal solution and will pass all the leetcode test cases
 const minOperations = (nums, k) => {
   const xors = nums.reduce((a, b) => a ^ b, 0);
   return this.bitCount(k ^ xors);

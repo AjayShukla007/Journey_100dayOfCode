@@ -560,3 +560,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Minimum Bit Flips to Convert Number on leetcode with tc of O(n^2) and sc of O(1) Beats 100.00% in runtime and 33.62% in Memory with JavaScript
+
+### day 78 of #100DaysOfCode
+- Adding event log system in the backend of RTPS video web app to make it more maintainable
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Minimum Number of Operations to Make Array XOR Equal to K on leetcode with tc of O(n^2) and sc of O(1) Beats 78.99% in runtime and 64.68% in Memory with JavaScript
