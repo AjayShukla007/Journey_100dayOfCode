@@ -1,1 +1,3 @@
-const minOperations = (nums, k)=>{}
+const minOperations = (nums, k) => {
+  
+};
