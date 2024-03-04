@@ -1,1 +1,3 @@
-const findKOr = (nums, k)=>{}
+const findKOr = (nums, k) => {
+  
+};
