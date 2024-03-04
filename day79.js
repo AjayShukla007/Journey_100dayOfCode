@@ -1,3 +1,4 @@
+// this is an optimal soltu
 const findKOr = (nums, k) => {
   const kMaxBit = 30;
   let ans = 0;
