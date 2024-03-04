@@ -1,0 +1,1 @@
+const findKOr = (nums, k)=>{}
