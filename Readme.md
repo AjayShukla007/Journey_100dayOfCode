@@ -569,7 +569,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved Minimum Number of Operations to Make Array XOR Equal to K on leetcode with tc of O(n^2) and sc of O(1) Beats 78.99% in runtime and 64.68% in Memory with JavaScript
 
 ### day 79 of #100DaysOfCode
-- Completed Task one Registeration Form using HTML/CSS, NodeJS Express and mongoDB and submited 
+- Completed Task one Registeration Form using HTML/CSS, NodeJS Express and mongoDB and submited it
 - Learning Bit Manipulation
 
 #### Bit Manipulation:

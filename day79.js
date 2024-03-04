@@ -1,4 +1,4 @@
-// this is an optimal soltu
+// this is an optimal solution and pass all the test cases of leetcode
 const findKOr = (nums, k) => {
   const kMaxBit = 30;
   let ans = 0;
