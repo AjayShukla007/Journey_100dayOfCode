@@ -567,3 +567,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Minimum Number of Operations to Make Array XOR Equal to K on leetcode with tc of O(n^2) and sc of O(1) Beats 78.99% in runtime and 64.68% in Memory with JavaScript
+
+### day 79 of #100DaysOfCode
+- Completed Task one Registeration Form using HTML/CSS, NodeJS Express and mongoDB and submited 
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Find the K-or of an Array on leetcode with tc of O(n) and sc of O(1) Beats 97.14% in runtime and 44.02% in Memory with JavaScript
