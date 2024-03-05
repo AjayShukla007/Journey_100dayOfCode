@@ -580,4 +580,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Number of Even and Odd Bits on leetcode with tc of O(n) and sc of O(1) Beats 94.33% in runtime and 55.48% in Memory with JavaScript
+- Solved Number of Even and Odd Bits on leetcode with tc of O(log n) and sc of O(1) Beats 94.33% in runtime and 55.48% in Memory with JavaScript
