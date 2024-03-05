@@ -1,1 +1,3 @@
-const evenOddBits = (n)=>{}
+const evenOddBits = n => {
+  
+};
