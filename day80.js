@@ -1,4 +1,4 @@
-const evenOddBit = (n) => {
+const evenOddBit = n => {
   const ans = [0, 0];
   let i = 0; // 0 := even, 1 := odd
 
@@ -9,4 +9,4 @@ const evenOddBit = (n) => {
   }
 
   return ans;
-}
+};
