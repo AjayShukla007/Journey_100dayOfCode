@@ -574,3 +574,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Find the K-or of an Array on leetcode with tc of O(n) and sc of O(1) Beats 97.14% in runtime and 44.02% in Memory with JavaScript
+
+### day 80 of #100DaysOfCode
+- Completed Task two Blogs website using HTML/CSS and ejs for ui, NodeJS Express for backens and mongoDB for database and submited it
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved 2595. Number of Even and Odd Bits on leetcode with tc of O(n) and sc of O(1) Beats 97.14% in runtime and 44.02% in Memory with JavaScript
