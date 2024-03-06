@@ -1,0 +1,1 @@
+const concatenatedBinery = (n)=>{}
