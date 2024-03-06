@@ -1,3 +1,4 @@
+// this is an optimal solution and will pass all the tes cases
 const concatenatedBinery = n => {
   let ans = 1,
     len = 0b100;

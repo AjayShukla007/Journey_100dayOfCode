@@ -587,4 +587,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Concatenation of Consecutive Binary Numbers on leetcode with tc of O(log n) and sc of O(1) Beats 94.33% in runtime and 55.48% in Memory with JavaScript
+- Solved Concatenation of Consecutive Binary Numbers on leetcode with tc of O(n) and sc of O(1) Beats 100.00% in runtime and 82.11% in Memory with JavaScript
