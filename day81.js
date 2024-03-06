@@ -1,1 +1,3 @@
-const concatenatedBinery = (n)=>{}
+const concatenatedBinery = n => {
+  
+};
