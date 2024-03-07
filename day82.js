@@ -2,7 +2,13 @@
 
 
 function sumIndicesWithKSetBits(nums,k) {
-    
+    let ans = 0;
+    for (let i = 0; i < nums.length; ++i) {
+        if (bitCount(i) === k) {
+            ans += nums[i];
+        }
+    }
+    return ans;
 }
 
 // function bitCount(n: number): number {
