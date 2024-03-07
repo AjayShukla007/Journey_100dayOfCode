@@ -1,3 +1,4 @@
+// this is an optimal solution and will pass all the test cases
 function sumIndicesWithKSetBits(nums, k) {
   let ans = 0;
   for (let i = 0; i < nums.length; ++i) {
