@@ -601,4 +601,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved XOR Queries of a Subarray  on leetcode with tc of O(n) and sc of O(1) Beats 92.88% in runtime and 67.55% in Memory with JavaScript
+- Solved XOR Queries of a Subarray  on leetcode with tc of O(n + m) and sc of O(n + m) Beats 100.00% in runtime and 55.03% in Memory with JavaScript

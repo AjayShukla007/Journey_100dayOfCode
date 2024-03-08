@@ -1,3 +1,4 @@
+// this is an optjmal soljtion and will pass the leetvode test cases and beats 100% in javascriot runtime on march 8 2024 at 7:pm with 70ms
 function xorQueries(arr, queries) {
   const ans = [];
   const xors = new Array(arr.length + 1).fill(0);
