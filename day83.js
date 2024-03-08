@@ -2,8 +2,7 @@ function xorQueries(arr, queries) {
   const ans = [];
   const xors = new Array(arr.length + 1).fill(0);
 
-  for (let i = 0; i < arr.length; ++i)
-    xors[i + 1] = xors[i] ^ arr[i];
+  for (let i = 0; i < arr.length; ++i) xors[i + 1] = xors[i] ^ arr[i];
 
   let i = 0;
   for (const query of queries) {
