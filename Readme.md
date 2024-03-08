@@ -595,3 +595,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Sum of Values at Indices With K Set Bits on leetcode with tc of O(n) and sc of O(1) Beats 92.88% in runtime and 67.55% in Memory with JavaScript
+
+### day 83 of #100DaysOfCode
+- Improving Log System on RTPS video streaming web app
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved  on leetcode with tc of O(n) and sc of O(1) Beats 92.88% in runtime and 67.55% in Memory with JavaScript
