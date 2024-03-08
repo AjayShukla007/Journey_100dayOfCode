@@ -1,1 +1,3 @@
-function xorQueries(arr,queries){}
+function xorQueries(arr, queries) {
+  
+}
