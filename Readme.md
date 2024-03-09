@@ -604,8 +604,8 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Solved XOR Queries of a Subarray  on leetcode with tc of O(n + m) and sc of O(n + m) Beats 100.00% in runtime and 55.03% in Memory with JavaScript
 
 ### day 84 of #100DaysOfCode
-- 
+- Adding different log space for every known events like Error Log, Debugging Log, Info Log, Network Logs, User Interaction Logs etc.
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Maximum XOR After Operations  on leetcode with tc of O(n + m) and sc of O(n + m) Beats 83.71% in runtime and 44.1% in Memory with JavaScript
+- Solved Maximum XOR After Operations  on leetcode with tc of O(n) and sc of O(1) Beats 83.71% in runtime and 44.1% in Memory with JavaScript
