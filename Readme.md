@@ -608,4 +608,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Maximum XOR After Operations  on leetcode with tc of O(n + m) and sc of O(n + m) Beats 100.00% in runtime and 55.03% in Memory with JavaScript
+- Solved Maximum XOR After Operations  on leetcode with tc of O(n + m) and sc of O(n + m) Beats 83.71% in runtime and 44.1% in Memory with JavaScript
