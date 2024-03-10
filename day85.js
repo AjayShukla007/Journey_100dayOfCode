@@ -1,1 +1,3 @@
-const pyramidTransition = (bottom, allowed)=>{}
+const pyramidTransition = (bottom, allowed) => {
+  
+};
