@@ -615,4 +615,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Pyramid Transition Matrix  on leetcode with tc of O(n) and sc of O(1) Beats 55.39% in runtime and 86.77% in Memory with JavaScript
+- Solved Pyramid Transition Matrix  on leetcode with tc of O(2^n) and sc of O(1) Beats 55.39% in runtime and 86.77% in Memory with JavaScript
