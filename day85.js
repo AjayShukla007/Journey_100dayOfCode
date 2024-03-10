@@ -31,7 +31,7 @@ const pyramidTransition = (bottom, allowed) => {
   }
 
   return dfs(bottom, "", 0);
-}
+};
 
 // Example usage:
 // const result = pyramidTransition("XYZ", ["XYD", "YZE", "DEA", "FFF"]);
