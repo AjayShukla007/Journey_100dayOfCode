@@ -1,1 +1,3 @@
-function smallestSubarrays(nums){}
+function smallestSubarrays(nums) {
+  
+}
