@@ -19,3 +19,7 @@ function smallestSubarrays(nums) {
 
   return ans;
 }
+
+// Example usage:
+// const result = smallestSubarrays([4, 3, 2, 6, 8]);
+// console.log(result);
