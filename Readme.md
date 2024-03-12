@@ -623,3 +623,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Counting Bits on leetcode with tc of O(n) and sc of O(1) Beats 92.11% in runtime and 48.04% in Memory with JavaScript 
+
+### day 87 of #100DaysOfCode
+- Added Info Log in RTPS video streaming web app
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved  on leetcode with tc of O(n) and sc of O(1) Beats % in runtime and % in Memory with JavaScript 
