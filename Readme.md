@@ -629,4 +629,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved  on leetcode with tc of O(n) and sc of O(1) Beats % in runtime and % in Memory with JavaScript 
+- Solved Smallest Subarrays With Maximum Bitwise OR on leetcode with tc of O(n) and sc of O(1) Beats % in runtime and % in Memory with JavaScript 
