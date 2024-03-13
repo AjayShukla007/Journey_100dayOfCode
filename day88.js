@@ -10,3 +10,7 @@ function numberOfSteps(num) {
   }
   return steps;
 }
+
+ // Example usage:
+// const result = numberOfSteps(14);
+// console.log(result);
