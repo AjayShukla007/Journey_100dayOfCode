@@ -636,4 +636,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Bit Manipulation
 
 #### Bit Manipulation:
-- Solved Number of Steps to Reduce a Number to Zero on leetcode with tc of O(n) and sc of O(n) Beats 100.00% in runtime and 100.00% in Memory with JavaScript 
+- Solved Number of Steps to Reduce a Number to Zero on leetcode with tc of O(n) and sc of O(n) Beats 86.22% in runtime and 77.02% in Memory with JavaScript 

@@ -1,3 +1,4 @@
+// this is an optimal soltuion and pass all the test cases of leetcode
 function numberOfSteps(num) {
   let steps = 0;
   while (num > 0) {
