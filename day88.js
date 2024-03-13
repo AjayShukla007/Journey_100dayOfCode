@@ -1,1 +1,3 @@
-function numberOfSteps(num){}
+function numberOfSteps(num) {
+  
+}
