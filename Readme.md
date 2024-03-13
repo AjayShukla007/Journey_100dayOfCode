@@ -630,3 +630,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Smallest Subarrays With Maximum Bitwise OR on leetcode with tc of O(n) and sc of O(n) Beats 100.00% in runtime and 100.00% in Memory with JavaScript 
+
+### day 88 of #100DaysOfCode
+- Working on User Interaction Log in RTPS video streaming web app
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Number of Steps to Reduce a Number to Zero on leetcode with tc of O(n) and sc of O(n) Beats 100.00% in runtime and 100.00% in Memory with JavaScript 
