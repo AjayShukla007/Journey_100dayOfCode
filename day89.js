@@ -1,3 +1,4 @@
+// this is an optimal solution and pass all the test cases on leetcode
 function longestSubarray(nums) {
   const maxValue = Math.max(...nums);
   let longestSubarrayLength = 0;
