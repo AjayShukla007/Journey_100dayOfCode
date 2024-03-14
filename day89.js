@@ -6,7 +6,10 @@ function longestSubarray(nums) {
   nums.forEach(value => {
     if (value === maxValue) {
       currentSubarrayLength++;
-      longestSubarrayLength = Math.max(longestSubarrayLength, currentSubarrayLength);
+      longestSubarrayLength = Math.max(
+        longestSubarrayLength,
+        currentSubarrayLength
+      );
     } else {
       currentSubarrayLength = 0;
     }
@@ -14,7 +17,6 @@ function longestSubarray(nums) {
 
   return longestSubarrayLength;
 }
-
 
 // const result = longestSubarray([1, 2, 3, 3, 4, 4, 4, 5]);
 // console.log(result);
