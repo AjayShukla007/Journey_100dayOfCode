@@ -637,3 +637,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Bit Manipulation:
 - Solved Number of Steps to Reduce a Number to Zero on leetcode with tc of O(n) and sc of O(n) Beats 86.22% in runtime and 77.02% in Memory with JavaScript 
+
+### day 89 of #100DaysOfCode
+- Added User Interaction Log in RTPS video streaming web app
+- Learning Bit Manipulation
+
+#### Bit Manipulation:
+- Solved Longest Subarray With Maximum Bitwise AND on leetcode with tc of O(n) and sc of O(n) Beats 86.22% in runtime and 77.02% in Memory with JavaScript 
