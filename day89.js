@@ -15,3 +15,6 @@ function longestSubarray(nums) {
   return longestSubarrayLength;
 }
 
+
+// const result = longestSubarray([1, 2, 3, 3, 4, 4, 4, 5]);
+// console.log(result);
