@@ -647,7 +647,7 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 ### day 90 of #100DaysOfCode
 - Working on Server Cache Log in RTPS video streaming web app
-- Learning Bit Manipulation
+- Learning Dynamic programming
 
-#### Bit Manipulation:
-- Solved Longest Subarray With Maximum Bitwise AND on leetcode with tc of O(n) and sc of O(2^n) Beats 90.00% in runtime and 70.00% in Memory with JavaScript 
+#### Dynamic Programming:
+- Solved Maximum Number of Operations With the Same Score I on leetcode with tc of O(n) and sc of O(2^n) Beats 64.02% in runtime and 72.44% in Memory with JavaScript 

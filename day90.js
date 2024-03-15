@@ -1,3 +1,4 @@
+// this is an optimal solution and pass all the test cases of leetcode
 const maxOperations = nums => {
   const s = nums[0] + nums[1];
   const n = nums.length;
