@@ -1,1 +1,3 @@
-function maxOperations(nums, k) {}
+function maxOperations(nums, k) {
+  
+}
