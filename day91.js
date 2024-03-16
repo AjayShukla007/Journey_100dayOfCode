@@ -24,3 +24,7 @@ function maxOperations(nums, k) {
 
   return count;
 }
+
+const nums = [1, 2, 3, 4, 5];
+const k = 6;
+console.log(maxOperations(nums, k)); // Output: 1 (possible pair: [1, 5])
