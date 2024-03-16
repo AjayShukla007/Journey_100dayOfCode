@@ -1,30 +1,37 @@
-function maxOperations(nums, k) {
-  const numCount = new Map();
-  let count = 0;
-
-  // Count occurrences of each number
-  for (const num of nums) {
-    numCount.set(num, (numCount.get(num) || 0) + 1);
-  }
-
-  // Iterate through unique numbers
-  for (const [num, freq] of numCount.entries()) {
-    const complement = k - num;
-
-    // If complement exists and is not the same as num
-    if (numCount.has(complement) && num !== complement) {
-      // Count operations possible with the pair
-      const operations = Math.min(freq, numCount.get(complement));
-      count += operations;
-      // Since pairs are counted, reduce the frequency of both numbers
-      numCount.set(num, freq - operations);
-      numCount.set(complement, numCount.get(complement) - operations);
+function maxOperations(nums) {
+  const n = nums.length;
+  const dp = new Map();
+  const solve = (i, j, prev) => {
+    if (j - i + 1 < 2) {
+      //Length can't be less than 2
+      return 0;
     }
-  }
+    let pos = i + "-" + j + "-" + prev;
+    if (dp.has(pos)) {
+      return dp.get(pos);
+    }
+    const front =
+      prev != nums[i] + nums[i + 1]
+        ? 0
+        : 1 + solve(i + 2, j, nums[i] + nums[i + 1]);
+    const end =
+      prev != nums[j] + nums[j - 1]
+        ? 0
+        : 1 + solve(i, j - 2, nums[j] + nums[j - 1]);
+    const both =
+      prev != nums[i] + nums[j]
+        ? 0
+        : 1 + solve(i + 1, j - 1, nums[i] + nums[j]);
 
-  return count;
+    const ans = Math.max(front, end, both);
+
+    dp.set(pos, ans);
+    return ans;
+  };
+
+  const front = solve(2, n - 1, nums[0] + nums[1]);
+  const end = solve(0, n - 3, nums[n - 1] + nums[n - 2]);
+  const both = solve(1, n - 2, nums[0] + nums[n - 1]);
+
+  return 1 + Math.max(front, end, both);
 }
-
-const nums = [1, 2, 3, 4, 5];
-const k = 6;
-console.log(maxOperations(nums, k)); // Output: 1 (possible pair: [1, 5])
