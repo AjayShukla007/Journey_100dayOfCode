@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function maxOperations(nums) {
   const n = nums.length;
   const dp = new Map();
