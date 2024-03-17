@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function getWordsInLongestSubsequence(words, groups) {
   const ans = [];
   for (let i = 0; i < n; ++i) {
