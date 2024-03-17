@@ -658,3 +658,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Dynamic Programming:
 - Solved Maximum Number of Operations With the Same Score II on leetcode with tc of O(n) and sc of O(n) Beats 55.90% in runtime and 48.21% in Memory with JavaScript 
+
+### day 92 of #100DaysOfCode
+- Improving Error Log and Server Cache Log in RTPS video streaming web app
+- Learning Dynamic programming
+
+#### Dynamic Programming:
+- Solved  on leetcode with tc of O(n) and sc of O(n) Beats % in runtime and % in Memory with JavaScript 
