@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function lengthOfLongestSubsequence(nums, target) {
   const n = nums.length;
   const f = Array.from({ length: n + 1 }, () =>
