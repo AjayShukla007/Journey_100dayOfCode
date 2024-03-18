@@ -665,3 +665,10 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Dynamic Programming:
 - Solved Longest Unequal Adjacent Groups Subsequence I on leetcode with tc of O(n) and sc of O(n) Beats 90.76% in runtime and 66.1% in Memory with JavaScript 
+
+### day 93 of #100DaysOfCode
+- Finishing RTPS video streaming web app and conducting final testing
+- Learning Dynamic programming
+
+#### Dynamic Programming:
+- Solved  on leetcode with tc of O(n) and sc of O(n) Beats .% in runtime and .% in Memory with JavaScript 
