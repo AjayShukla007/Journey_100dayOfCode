@@ -671,4 +671,4 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 - Learning Dynamic programming
 
 #### Dynamic Programming:
-- Solved  on leetcode with tc of O(n) and sc of O(n) Beats .% in runtime and .% in Memory with JavaScript 
+- Solved Length of the Longest Subsequence That Sums to Target on leetcode with tc of O(n) and sc of O(n) Beats .% in runtime and .% in Memory with JavaScript 
