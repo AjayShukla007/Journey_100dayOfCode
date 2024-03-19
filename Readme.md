@@ -680,4 +680,4 @@ https://github.com/AjayShukla007/rtspStreamBackend
 - Learning Dynamic programming
 
 #### Dynamic Programming:
-- Solved  on leetcode with tc of O() and sc of O()) Beats .% in runtime and .% in Memory with JavaScript 
+- Solved  on leetcode with tc of O(n * 2^n) and sc of O(2^n) Beats .% in runtime and .% in Memory with JavaScript 
