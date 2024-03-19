@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function minimumMoves(grid) {
   // Initialize arrays to store positions of zeros 'left' and non-zeros 'right'.
   const zeroPositions = [];
