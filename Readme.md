@@ -672,3 +672,12 @@ Problem medium level on HackerRank with tc of O(n) and sc of O(1)
 
 #### Dynamic Programming:
 - Solved Length of the Longest Subsequence That Sums to Target on leetcode with tc of O(n) and sc of O(n) Beats 61.50% in runtime and 75.99% in Memory with JavaScript 
+
+### day 94 of #100DaysOfCode
+- Will improve the RTPS video stream web app in near future
+- backend work done for now
+https://github.com/AjayShukla007/rtspStreamBackend
+- Learning Dynamic programming
+
+#### Dynamic Programming:
+- Solved  on leetcode with tc of O() and sc of O()) Beats .% in runtime and .% in Memory with JavaScript 
