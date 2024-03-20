@@ -14,3 +14,7 @@ function maxScore(nums, x) {
 
   return Math.max(dp0, dp1);
 }
+
+// Example usage:
+// const result = maxScore([1, 2, 3, 4, 5], 3);
+// console.log(result);
