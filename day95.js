@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function maxScore(nums, x) {
   // dp0 := the maximum score so far with `nums` ending in an even number
   let dp0 = nums[0] - (nums[0] % 2 === 1 ? x : 0);
