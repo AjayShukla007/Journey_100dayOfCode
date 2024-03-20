@@ -1,1 +1,3 @@
-function maxScore(nums,x){}
+function maxScore(nums, x) {
+  
+}
