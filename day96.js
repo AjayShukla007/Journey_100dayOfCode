@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function numberOfWays(n, x) {
   const mod = 10 ** 9 + 7;
   const f = Array(n + 1)
