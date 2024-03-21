@@ -688,3 +688,10 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 #### Dynamic Programming:
 - Solved  Visit Array Positions to Maximize Score on leetcode with tc of O(n) and sc of O(1) Beats 74.22% in runtime and 70.61% in Memory with JavaScript 
+
+### day 96 of #100DaysOfCode
+- reStyling csNavBar Component on personal portfolio website
+- Learning Dynamic programming
+
+#### Dynamic Programming:
+- Solved Ways to Express an Integer as Sum of Powers on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
