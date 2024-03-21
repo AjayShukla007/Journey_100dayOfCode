@@ -1,0 +1,1 @@
+function numberOfWays(n,x){}
