@@ -695,3 +695,10 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 #### Dynamic Programming:
 - Solved Ways to Express an Integer as Sum of Powers on leetcode with tc of O(n) and sc of O(1) Beats 64.77% in runtime and 48.01% in Memory with JavaScript 
+
+### day 97 of #100DaysOfCode
+- Added more responsiveness in csNavBar Component on personal portfolio website
+- Learning Dynamic programming
+
+#### Dynamic Programming:
+- Solved  on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
