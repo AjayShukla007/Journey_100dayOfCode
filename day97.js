@@ -1,3 +1,6 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
+
 const join = (arr1, arr2) => {
   const ob = {};
   for (const i of arr1) {
