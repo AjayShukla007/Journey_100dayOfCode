@@ -1,3 +1,3 @@
 const findDelayedArrivalTime = (arrivalTime, delayedTime) => {
-  return (arrivalTime + delayedTime) % 24
+  return (arrivalTime + delayedTime) % 24;
 };
