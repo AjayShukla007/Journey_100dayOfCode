@@ -705,7 +705,7 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 ### day 98 of #100DaysOfCode
 - Working on styling caseStudies Component on personal portfolio website
-- Learning Dynamic programming
+- Learning Math in dsa
 
-#### Dynamic Programming:
-- Solved Calculate Delayed Arrival Time on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
+#### Math:
+- Solved Calculate Delayed Arrival Time on leetcode with tc of O(1) and sc of O(1) Beats 100.00% in runtime and 78.07% in Memory with JavaScript 
