@@ -708,4 +708,4 @@ https://github.com/AjayShukla007/rtspStreamBackend
 - Learning Dynamic programming
 
 #### Dynamic Programming:
-- Solved  on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
+- Solved Calculate Delayed Arrival Time on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
