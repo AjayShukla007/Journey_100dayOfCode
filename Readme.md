@@ -702,3 +702,10 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 #### Dynamic Programming:
 - Solved Join Two Arrays by ID on leetcode with tc of O(n) and sc of O(1) Beats 87.88% in runtime and 63.04% in Memory with JavaScript 
+
+### day 98 of #100DaysOfCode
+- Working on styling caseStudies Component on personal portfolio website
+- Learning Dynamic programming
+
+#### Dynamic Programming:
+- Solved  on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
