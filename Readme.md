@@ -709,3 +709,10 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 #### Math:
 - Solved Calculate Delayed Arrival Time on leetcode with tc of O(1) and sc of O(1) Beats 100.00% in runtime and 78.07% in Memory with JavaScript 
+
+### day 99 of #100DaysOfCode
+- Fixed responsive width issue Projects Component on personal portfolio website
+- Learning Math in dsa
+
+#### Math:
+- Solved  on leetcode with tc of O(1) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
