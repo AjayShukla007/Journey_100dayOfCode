@@ -11,3 +11,7 @@ function findMatrix(nums) {
 
   return ans;
 }
+
+// Example usage:
+// const result = findMatrix([1, 2, 2, 3, 3, 3]);
+// console.log(result);
