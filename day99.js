@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function findMatrix(nums) {
   let ans = [];
   let count = new Array(nums.length + 1).fill(0);
