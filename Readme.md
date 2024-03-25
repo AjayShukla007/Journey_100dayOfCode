@@ -716,3 +716,11 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 #### Math:
 - Solved Convert an Array Into a 2D Array With Conditions on leetcode with tc of O(1) and sc of O(1) Beats 69.87% in runtime and 64.10% in Memory with JavaScript 
+
+### day 100 of #100DaysOfCode
+- Completed 100 day of code in JavaScript
+- while this challenge is focused on dsa i have learned a lot new Programming concepts
+- Learning Math in dsa
+
+#### Math:
+- Solved  on leetcode with tc of O() and sc of O() Beats .% in runtime and .% in Memory with JavaScript 
