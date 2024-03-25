@@ -1,1 +1,3 @@
-function alternateDigitSum(n){}
+function alternateDigitSum(n) {
+  
+}
