@@ -1,3 +1,5 @@
+// this is an optimal solution and pass all the test cases of leetcode
+
 function alternateDigitSum(n) {
   // Initialize the accumulator for the alternating sum of digits
   let accumulatedSum = 0;
