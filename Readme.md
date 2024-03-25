@@ -724,3 +724,7 @@ https://github.com/AjayShukla007/rtspStreamBackend
 
 #### Math:
 - Solved Alternating Digit Sum on leetcode with tc of O(n) and sc of O(1) Beats 62.28% in runtime and 71.02% in Memory with JavaScript 
+
+ *25/03/2024*
+## Completed the #100DaysOfCode challenge today!
+## **Thank you all who supported me in my journey**
