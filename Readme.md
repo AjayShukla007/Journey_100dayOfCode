@@ -723,4 +723,4 @@ https://github.com/AjayShukla007/rtspStreamBackend
 - Learning Math in dsa
 
 #### Math:
-- Solved Alternating Digit Sum on leetcode with tc of O() and sc of O() Beats .% in runtime and .% in Memory with JavaScript 
+- Solved Alternating Digit Sum on leetcode with tc of O(n) and sc of O(1) Beats .% in runtime and .% in Memory with JavaScript 
