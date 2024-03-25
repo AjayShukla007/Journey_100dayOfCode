@@ -21,4 +21,3 @@ function alternateDigitSum(n) {
   // The multiplication by `-sign` is used to negate the sum correctly based on the last iteration's sign
   return accumulatedSum * -sign;
 }
-
